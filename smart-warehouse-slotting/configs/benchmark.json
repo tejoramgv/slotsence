@@ -1,0 +1,40 @@
+{
+  "topology": {
+    "n_zones": 6,
+    "aisles_per_zone": 4,
+    "racks_per_aisle": 4,
+    "bays_per_rack": 2,
+    "shelf_levels": 4,
+    "bins_per_shelf": 2,
+    "bin_width_cm": 60.0,
+    "bin_height_cm": 40.0,
+    "bin_depth_cm": 45.0,
+    "max_weight_kg": 60.0,
+    "aisle_spacing_m": 2.0,
+    "rack_depth_m": 1.2,
+    "shelf_height_m": 0.5,
+    "golden_levels": [2]
+  },
+  "demand": {
+    "abc_a_cumulative_share": 0.80,
+    "abc_b_cumulative_share": 0.95,
+    "n_scenarios": 3
+  },
+  "optimization": {
+    "alpha": 1.0,
+    "beta": 0.4,
+    "gamma": 0.3,
+    "delta": 0.2
+  },
+  "slotting": {
+    "single_sku_per_location": true,
+    "max_quantity_per_location": 0
+  },
+  "dataset": {
+    "n_skus": 1200,
+    "n_categories": 10,
+    "n_locations": 1700,
+    "n_order_lines": 60000,
+    "seed": 42
+  }
+}

@@ -1,0 +1,7 @@
+# Preserve the dataset hashes recorded in generation_manifest.json: force LF everywhere.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.docx binary

@@ -1,0 +1,11 @@
+category_id,category_name,storage_requirements
+CAT001,Accessories & Cables,"small, light"
+CAT002,Books & Media,"medium, boxed"
+CAT003,Household Goods,"medium, boxed"
+CAT004,Storage Containers,"large, bulky"
+CAT005,Appliances,"large, bulky"
+CAT006,Tools & Metal Parts,"heavy, dense"
+CAT007,Packaged Bulk Goods,"heavy, dense"
+CAT008,Glassware,fragile
+CAT009,Electronics & Sensitive,fragile
+CAT010,Restricted / Hazardous,restricted

@@ -1,0 +1,281 @@
+{
+  "dataset_name": "smart_warehouse_benchmark",
+  "dataset_version": "1.0.0",
+  "seed": 42,
+  "generated_at": "2026-10-27T20:40:10Z",
+  "python_version": "3.14.6",
+  "config_sha256": "9a06bf8570c4933a09dd0c9e41562cff197ba72ef4640beb9bd4528c195c6082",
+  "config": {
+    "seed": 42,
+    "n_skus": 1200,
+    "n_order_lines_per_scenario": 20000,
+    "order_window": {
+      "start_date": "2025-01-01",
+      "days": 180
+    },
+    "inventory": {
+      "cover_days": 30,
+      "safety_factor": 0.2,
+      "min_units": 3,
+      "max_bins_per_class": {
+        "small": 2,
+        "medium": 2,
+        "bulky": 2,
+        "heavy": 1,
+        "fragile": 1,
+        "hazard": 1
+      }
+    },
+    "warehouse": {
+      "warehouse_id": "WH001",
+      "warehouse_name": "Generalized Benchmark Warehouse",
+      "layout_version": "dataset-v1.0",
+      "dispatch_point_m": [
+        0.0,
+        -3.0
+      ],
+      "aisle_width_m": 2.0,
+      "rack_depth_m": 1.2,
+      "shelf_height_m": 0.5,
+      "zone_gap_m": 2.0,
+      "rack_limit_factor": 0.85,
+      "golden_levels": [
+        1,
+        2
+      ],
+      "n_aisles_per_zone": 4,
+      "n_racks_per_aisle": 4,
+      "n_bays_per_rack": 2,
+      "n_shelves": 4,
+      "n_bins_per_shelf": 2,
+      "zone_layout": [
+        {
+          "zone_type": "general",
+          "count": 3,
+          "bin_class": "standard"
+        },
+        {
+          "zone_type": "small_parts",
+          "count": 1,
+          "bin_class": "small"
+        },
+        {
+          "zone_type": "bulk",
+          "count": 2,
+          "bin_class": "bulk"
+        },
+        {
+          "zone_type": "heavy",
+          "count": 2,
+          "bin_class": "heavy"
+        },
+        {
+          "zone_type": "hazard",
+          "count": 1,
+          "bin_class": "hazard"
+        }
+      ],
+      "bin_classes": {
+        "small": {
+          "dims_cm": [
+            45.0,
+            30.0,
+            40.0
+          ],
+          "shelf_weight_kg": [
+            40.0,
+            35.0,
+            30.0,
+            25.0
+          ]
+        },
+        "standard": {
+          "dims_cm": [
+            60.0,
+            40.0,
+            45.0
+          ],
+          "shelf_weight_kg": [
+            80.0,
+            60.0,
+            50.0,
+            40.0
+          ]
+        },
+        "bulk": {
+          "dims_cm": [
+            100.0,
+            70.0,
+            70.0
+          ],
+          "shelf_weight_kg": [
+            200.0,
+            160.0,
+            140.0,
+            120.0
+          ]
+        },
+        "heavy": {
+          "dims_cm": [
+            60.0,
+            40.0,
+            45.0
+          ],
+          "shelf_weight_kg": [
+            120.0,
+            100.0,
+            80.0,
+            60.0
+          ]
+        },
+        "hazard": {
+          "dims_cm": [
+            60.0,
+            40.0,
+            45.0
+          ],
+          "shelf_weight_kg": [
+            60.0,
+            50.0,
+            40.0,
+            30.0
+          ]
+        }
+      },
+      "zone_rules": {
+        "general": {
+          "allowed_handling": [
+            "standard",
+            "fragile"
+          ],
+          "allowed_hazard": [
+            "NONE"
+          ]
+        },
+        "small_parts": {
+          "allowed_handling": [
+            "standard",
+            "fragile"
+          ],
+          "allowed_hazard": [
+            "NONE"
+          ]
+        },
+        "bulk": {
+          "allowed_handling": [
+            "standard",
+            "fragile"
+          ],
+          "allowed_hazard": [
+            "NONE"
+          ]
+        },
+        "heavy": {
+          "allowed_handling": [
+            "standard",
+            "heavy"
+          ],
+          "allowed_hazard": [
+            "NONE"
+          ]
+        },
+        "hazard": {
+          "allowed_handling": [
+            "standard"
+          ],
+          "allowed_hazard": [
+            "flammable",
+            "corrosive",
+            "toxic"
+          ]
+        }
+      }
+    },
+    "demand": {
+      "scenarios": [
+        {
+          "scenario_id": "A",
+          "kind": "concentrated",
+          "zipf_alpha": 1.15,
+          "max_items_per_order": 6
+        },
+        {
+          "scenario_id": "B",
+          "kind": "balanced",
+          "max_items_per_order": 6
+        },
+        {
+          "scenario_id": "C",
+          "kind": "affinity",
+          "cluster_size": 10,
+          "cluster_order_share": 0.75,
+          "max_items_per_order": 6
+        }
+      ]
+    }
+  },
+  "counts": {
+    "warehouses": 1,
+    "categories": 10,
+    "products": 1200,
+    "locations": 2304,
+    "inventory": 1425,
+    "compatibility_rules": 55,
+    "orders": 16244,
+    "order_items": 60000,
+    "storage_assignments_baseline": 1425,
+    "location_graph": 5274,
+    "demand_summary": 3600,
+    "sku_affinity": 10130
+  },
+  "files": {
+    "processed/warehouses.csv": {
+      "rows": 1,
+      "sha256": "062aa669a07729ff50bb81bf6682f7532f1d8c72ca5245218189282ff98f84cb"
+    },
+    "processed/categories.csv": {
+      "rows": 10,
+      "sha256": "4e865fec9c449d162e961a1a358d4427ad396802b9aa68381bc7260d1c3c9a25"
+    },
+    "processed/products.csv": {
+      "rows": 1200,
+      "sha256": "296bd089c6c8391abf7a36106317a6b380e6f7c7c681525501961610eb7d5f86"
+    },
+    "processed/locations.csv": {
+      "rows": 2304,
+      "sha256": "1b4c378fe5d985371e258dca6cabba3c0556d8e79d26407834625d9af0e77538"
+    },
+    "processed/inventory.csv": {
+      "rows": 1425,
+      "sha256": "76fdffc1fb02dabbdbb03f82bb2e3e9257963ee42c2dfc8a46860dd2b0098fe3"
+    },
+    "processed/compatibility_rules.csv": {
+      "rows": 55,
+      "sha256": "b888700826d96960b45b28cb31e5c5ee517cbe4d783191baac2341c144d07655"
+    },
+    "processed/orders.csv": {
+      "rows": 16244,
+      "sha256": "058fc42c97c27629f8ef7ee276d6d6786f8cdf5d5e96575471f64f2488c5e053"
+    },
+    "processed/order_items.csv": {
+      "rows": 60000,
+      "sha256": "a658e68c301f12f1f68e5c31c2e8b3410060d32bc2f742dd36373934497a41ee"
+    },
+    "processed/storage_assignments_baseline.csv": {
+      "rows": 1425,
+      "sha256": "c564c0778de5e124e310e9d1e3b0071469bb274a0107bee045ab1cd5addbe944"
+    },
+    "processed/location_graph.csv": {
+      "rows": 5274,
+      "sha256": "4a9dd544abb3c26bb19a1eb7ce486bd705295264069596f63c046866cb759230"
+    },
+    "processed/demand_summary.csv": {
+      "rows": 3600,
+      "sha256": "3aa4c937e501ef9ee22bb7a47e9907ebd50410d9e4b4b4046aa35e07481500f9"
+    },
+    "processed/sku_affinity.csv": {
+      "rows": 10130,
+      "sha256": "ca83e3422a109269590e7838d342f962fbcc305c17916bc2bbadb65cb9322b3a"
+    }
+  }
+}

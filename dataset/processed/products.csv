@@ -1,0 +1,1201 @@
+sku_id,product_name,category_id,width_cm,height_cm,depth_cm,unit_volume_cm3,unit_weight_kg,handling_type,hazard_class,data_source,data_quality_status,physical_data_source,physical_confidence
+SKU000001,USB-C Cable 0001,CAT001,5.6,3.1,2.7,46.87,0.018,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000002,Phone Case 0002,CAT001,13.6,8.2,6.3,702.58,0.212,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000003,AA Batteries 0003,CAT001,9.6,5.5,4.7,248.16,0.075,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000004,Desk Organizer 0004,CAT001,7.3,4.4,3.4,109.21,0.02,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000005,Charging Adapter 0005,CAT001,10.6,6.7,5.4,383.51,0.126,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000006,USB-C Cable 0006,CAT001,11.1,6.3,5.3,370.63,0.178,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000007,Phone Case 0007,CAT001,13.8,9.1,7.1,891.62,0.166,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000008,AA Batteries 0008,CAT001,14.6,9.2,7.4,993.97,0.182,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000009,Desk Organizer 0009,CAT001,12.4,7.6,5.8,546.59,0.183,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000010,Charging Adapter 0010,CAT001,12.0,8.1,6.6,641.52,0.107,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000011,USB-C Cable 0011,CAT001,11.3,6.6,5.8,432.56,0.212,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000012,Phone Case 0012,CAT001,10.4,6.6,5.8,398.11,0.193,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000013,AA Batteries 0013,CAT001,11.9,8.3,6.5,642.01,0.115,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000014,Desk Organizer 0014,CAT001,6.0,3.9,3.0,70.2,0.03,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000015,Charging Adapter 0015,CAT001,6.2,3.7,2.9,66.53,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000016,USB-C Cable 0016,CAT001,16.1,8.4,7.7,1041.35,0.517,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000017,Phone Case 0017,CAT001,15.9,8.7,7.7,1065.14,0.345,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000018,AA Batteries 0018,CAT001,15.8,9.7,8.1,1241.41,0.354,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000019,Desk Organizer 0019,CAT001,12.0,7.3,6.9,604.44,0.176,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000020,Charging Adapter 0020,CAT001,12.7,7.2,6.4,585.22,0.275,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000021,USB-C Cable 0021,CAT001,8.4,4.9,4.1,168.76,0.074,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000022,Phone Case 0022,CAT001,13.7,7.9,6.9,746.79,0.17,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000023,AA Batteries 0023,CAT001,6.7,4.2,3.8,106.93,0.024,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000024,Desk Organizer 0024,CAT001,9.3,5.6,5.1,265.61,0.097,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000025,Charging Adapter 0025,CAT001,11.3,6.7,5.7,431.55,0.152,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000026,USB-C Cable 0026,CAT001,7.4,4.9,3.7,134.16,0.02,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000027,Phone Case 0027,CAT001,11.9,7.8,6.0,556.92,0.166,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000028,AA Batteries 0028,CAT001,5.1,3.0,2.5,38.25,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000029,Desk Organizer 0029,CAT001,11.7,6.5,5.3,403.06,0.098,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000030,Charging Adapter 0030,CAT001,12.2,7.8,5.9,561.44,0.222,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000031,USB-C Cable 0031,CAT001,6.3,4.1,3.3,85.24,0.032,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000032,Phone Case 0032,CAT001,8.4,4.7,4.1,161.87,0.049,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000033,AA Batteries 0033,CAT001,15.6,9.1,7.9,1121.48,0.408,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000034,Desk Organizer 0034,CAT001,13.0,7.9,6.2,636.74,0.303,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000035,Charging Adapter 0035,CAT001,12.6,7.3,5.6,515.09,0.097,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000036,USB-C Cable 0036,CAT001,15.2,9.4,7.8,1114.46,0.257,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000037,Phone Case 0037,CAT001,16.1,9.9,7.9,1259.18,0.302,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000038,AA Batteries 0038,CAT001,10.3,6.0,5.0,309.0,0.094,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000039,Desk Organizer 0039,CAT001,7.5,5.0,3.9,146.25,0.041,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000040,Charging Adapter 0040,CAT001,14.0,8.1,6.6,748.44,0.321,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000041,USB-C Cable 0041,CAT001,7.6,4.5,4.1,140.22,0.033,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000042,Phone Case 0042,CAT001,11.6,6.4,5.5,408.32,0.188,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000043,AA Batteries 0043,CAT001,13.0,7.8,7.3,740.22,0.264,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000044,Desk Organizer 0044,CAT001,13.7,7.4,6.4,648.83,0.305,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000045,Charging Adapter 0045,CAT001,6.8,4.5,3.7,113.22,0.037,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000046,USB-C Cable 0046,CAT001,6.8,3.8,3.4,87.86,0.021,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000047,Phone Case 0047,CAT001,6.9,3.9,3.3,88.8,0.027,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000048,AA Batteries 0048,CAT001,10.0,6.2,4.7,291.4,0.113,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000049,Desk Organizer 0049,CAT001,10.9,6.0,5.3,346.62,0.077,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000050,Charging Adapter 0050,CAT001,13.1,7.7,6.3,635.48,0.307,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000051,USB-C Cable 0051,CAT001,8.3,5.2,4.1,176.96,0.082,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000052,Phone Case 0052,CAT001,13.5,8.7,6.8,798.66,0.359,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000053,AA Batteries 0053,CAT001,8.9,5.9,4.5,236.3,0.109,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000054,Desk Organizer 0054,CAT001,15.5,8.8,7.9,1077.56,0.176,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000055,Charging Adapter 0055,CAT001,6.0,3.5,3.3,69.3,0.027,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000056,USB-C Cable 0056,CAT001,14.2,8.0,6.7,761.12,0.276,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000057,Phone Case 0057,CAT001,14.0,8.0,7.2,806.4,0.237,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000058,AA Batteries 0058,CAT001,12.6,7.3,5.9,542.68,0.194,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000059,Desk Organizer 0059,CAT001,7.2,4.6,3.6,119.23,0.019,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000060,Charging Adapter 0060,CAT001,13.2,7.7,7.1,721.64,0.302,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000061,USB-C Cable 0061,CAT001,6.2,3.7,2.9,66.53,0.025,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000062,Phone Case 0062,CAT001,8.0,4.7,3.9,146.64,0.034,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000063,AA Batteries 0063,CAT001,12.3,7.8,6.3,604.42,0.109,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000064,Desk Organizer 0064,CAT001,5.1,2.9,2.4,35.5,0.011,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000065,Charging Adapter 0065,CAT001,11.9,7.7,6.3,577.27,0.273,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000066,USB-C Cable 0066,CAT001,15.0,8.2,7.4,910.2,0.239,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000067,Phone Case 0067,CAT001,8.0,4.5,4.2,151.2,0.027,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000068,AA Batteries 0068,CAT001,10.9,7.0,5.6,427.28,0.205,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000069,Desk Organizer 0069,CAT001,8.1,4.8,3.9,151.63,0.057,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000070,Charging Adapter 0070,CAT001,8.0,4.8,4.1,157.44,0.067,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000071,USB-C Cable 0071,CAT001,6.9,4.3,3.7,109.78,0.027,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000072,Phone Case 0072,CAT001,6.1,4.0,3.3,80.52,0.025,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000073,AA Batteries 0073,CAT001,9.3,6.0,5.1,284.58,0.068,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000074,Desk Organizer 0074,CAT001,11.1,6.9,5.7,436.56,0.187,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000075,Charging Adapter 0075,CAT001,11.8,7.0,5.9,487.34,0.155,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000076,USB-C Cable 0076,CAT001,8.2,4.9,3.8,152.68,0.044,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000077,Phone Case 0077,CAT001,14.0,9.5,7.2,957.6,0.207,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000078,AA Batteries 0078,CAT001,9.0,5.2,4.4,205.92,0.068,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000079,Desk Organizer 0079,CAT001,15.3,8.7,7.7,1024.95,0.353,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000080,Charging Adapter 0080,CAT001,8.6,4.6,4.5,178.02,0.081,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000081,USB-C Cable 0081,CAT001,5.9,3.2,3.1,58.53,0.018,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000082,Phone Case 0082,CAT001,12.7,8.1,6.1,627.51,0.27,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000083,AA Batteries 0083,CAT001,7.5,4.7,4.0,141.0,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000084,Desk Organizer 0084,CAT001,6.7,4.1,3.5,96.14,0.019,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000085,Charging Adapter 0085,CAT001,13.7,9.1,6.9,860.22,0.264,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000086,USB-C Cable 0086,CAT001,8.4,5.7,4.5,215.46,0.089,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000087,Phone Case 0087,CAT001,6.7,3.9,3.2,83.62,0.024,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000088,AA Batteries 0088,CAT001,11.8,7.4,6.4,558.85,0.199,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000089,Desk Organizer 0089,CAT001,14.8,8.9,6.7,882.52,0.391,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000090,Charging Adapter 0090,CAT001,11.7,8.0,6.7,627.12,0.291,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000091,USB-C Cable 0091,CAT001,9.0,5.5,4.3,212.85,0.079,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000092,Phone Case 0092,CAT001,9.8,5.5,4.4,237.16,0.071,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000093,AA Batteries 0093,CAT001,11.2,6.7,5.8,435.23,0.114,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000094,Desk Organizer 0094,CAT001,9.7,6.0,4.9,285.18,0.091,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000095,Charging Adapter 0095,CAT001,8.4,4.8,4.6,185.47,0.042,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000096,USB-C Cable 0096,CAT001,5.2,2.8,2.6,37.86,0.018,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000097,Phone Case 0097,CAT001,5.6,3.6,2.7,54.43,0.011,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000098,AA Batteries 0098,CAT001,5.8,3.5,2.8,56.84,0.015,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000099,Desk Organizer 0099,CAT001,15.2,9.9,8.3,1248.98,0.385,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000100,Charging Adapter 0100,CAT001,13.3,8.7,7.1,821.54,0.303,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000101,USB-C Cable 0101,CAT001,14.6,9.0,7.0,919.8,0.259,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000102,Phone Case 0102,CAT001,15.2,9.0,8.1,1108.08,0.303,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000103,AA Batteries 0103,CAT001,9.7,5.4,5.1,267.14,0.097,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000104,Desk Organizer 0104,CAT001,5.2,3.2,2.7,44.93,0.019,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000105,Charging Adapter 0105,CAT001,14.3,8.6,6.9,848.56,0.153,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000106,USB-C Cable 0106,CAT001,9.2,4.9,4.2,189.34,0.03,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000107,Phone Case 0107,CAT001,8.3,5.1,4.1,173.55,0.059,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000108,AA Batteries 0108,CAT001,6.6,4.0,3.1,81.84,0.038,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000109,Desk Organizer 0109,CAT001,12.4,7.5,6.1,567.3,0.113,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000110,Charging Adapter 0110,CAT001,14.2,9.5,7.3,984.77,0.337,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000111,USB-C Cable 0111,CAT001,11.5,7.6,6.2,541.88,0.154,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000112,Phone Case 0112,CAT001,9.3,5.6,4.3,223.94,0.044,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000113,AA Batteries 0113,CAT001,10.8,6.5,5.5,386.1,0.06,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000114,Desk Organizer 0114,CAT001,11.5,6.8,5.2,406.64,0.142,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000115,Charging Adapter 0115,CAT001,15.5,9.1,7.4,1043.77,0.235,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000116,USB-C Cable 0116,CAT001,10.7,5.7,5.1,311.05,0.104,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000117,Phone Case 0117,CAT001,5.8,3.5,2.8,56.84,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000118,AA Batteries 0118,CAT001,13.7,8.7,7.0,834.33,0.276,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000119,Desk Organizer 0119,CAT001,9.2,5.6,4.7,242.14,0.105,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000120,Charging Adapter 0120,CAT001,13.6,7.8,6.1,647.09,0.229,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000121,USB-C Cable 0121,CAT001,11.9,7.3,6.4,555.97,0.124,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000122,Phone Case 0122,CAT001,5.7,3.1,2.7,47.71,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000123,AA Batteries 0123,CAT001,6.9,4.2,3.4,98.53,0.032,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000124,Desk Organizer 0124,CAT001,5.5,3.4,2.5,46.75,0.014,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000125,Charging Adapter 0125,CAT001,9.4,5.4,4.8,243.65,0.117,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000126,USB-C Cable 0126,CAT001,7.4,4.8,3.7,131.42,0.039,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000127,Phone Case 0127,CAT001,7.5,4.2,3.8,119.7,0.043,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000128,AA Batteries 0128,CAT001,13.6,8.3,6.8,767.58,0.331,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000129,Desk Organizer 0129,CAT001,8.8,5.3,4.9,228.54,0.044,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000130,Charging Adapter 0130,CAT001,12.4,7.4,6.9,633.14,0.256,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000131,USB-C Cable 0131,CAT001,13.4,8.4,7.1,799.18,0.184,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000132,Phone Case 0132,CAT001,5.9,3.7,3.3,72.04,0.017,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000133,AA Batteries 0133,CAT001,14.5,9.1,6.8,897.26,0.44,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000134,Desk Organizer 0134,CAT001,12.6,7.8,6.4,628.99,0.167,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000135,Charging Adapter 0135,CAT001,12.3,7.2,5.5,487.08,0.172,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000136,USB-C Cable 0136,CAT001,9.7,6.1,5.3,313.6,0.103,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000137,Phone Case 0137,CAT001,12.5,8.3,6.9,715.88,0.182,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000138,AA Batteries 0138,CAT001,6.2,3.8,3.2,75.39,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000139,Desk Organizer 0139,CAT001,12.1,6.5,5.5,432.57,0.131,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000140,Charging Adapter 0140,CAT001,10.9,6.6,5.2,374.09,0.14,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000141,USB-C Cable 0141,CAT001,8.3,5.2,4.3,185.59,0.029,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000142,Phone Case 0142,CAT001,13.1,8.3,6.0,652.38,0.098,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000143,AA Batteries 0143,CAT001,9.0,4.9,4.2,185.22,0.042,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000144,Desk Organizer 0144,CAT001,11.0,6.2,4.9,334.18,0.12,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000145,Charging Adapter 0145,CAT001,5.4,3.3,2.8,49.9,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000146,USB-C Cable 0146,CAT001,16.1,9.8,8.0,1262.24,0.33,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000147,Phone Case 0147,CAT001,4.8,3.0,2.6,37.44,0.013,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000148,AA Batteries 0148,CAT001,14.2,8.4,6.7,799.18,0.32,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000149,Desk Organizer 0149,CAT001,16.6,9.5,8.0,1261.6,0.559,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000150,Charging Adapter 0150,CAT001,14.6,8.8,7.8,1002.14,0.252,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000151,USB-C Cable 0151,CAT001,9.4,5.3,4.4,219.21,0.062,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000152,Phone Case 0152,CAT001,5.1,3.2,2.5,40.8,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000153,AA Batteries 0153,CAT001,5.5,3.8,3.0,62.7,0.027,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000154,Desk Organizer 0154,CAT001,13.0,8.5,6.7,740.35,0.186,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000155,Charging Adapter 0155,CAT001,7.0,4.1,3.3,94.71,0.041,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000156,USB-C Cable 0156,CAT001,14.4,9.1,7.2,943.49,0.195,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000157,Phone Case 0157,CAT001,14.0,8.2,6.5,746.2,0.33,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000158,AA Batteries 0158,CAT001,8.6,4.6,3.9,154.28,0.057,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000159,Desk Organizer 0159,CAT001,13.6,7.4,6.0,603.84,0.264,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000160,Charging Adapter 0160,CAT001,8.3,5.2,4.3,185.59,0.03,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000161,USB-C Cable 0161,CAT001,16.7,9.6,7.9,1266.53,0.205,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000162,Phone Case 0162,CAT001,10.7,6.9,5.2,383.92,0.096,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000163,AA Batteries 0163,CAT001,14.4,8.0,6.5,748.8,0.292,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000164,Desk Organizer 0164,CAT001,14.5,8.9,7.4,954.97,0.335,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000165,Charging Adapter 0165,CAT001,13.9,9.0,6.6,825.66,0.15,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000166,USB-C Cable 0166,CAT001,7.8,4.5,3.4,119.34,0.047,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000167,Phone Case 0167,CAT001,14.5,8.8,7.8,995.28,0.216,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000168,AA Batteries 0168,CAT001,8.5,4.7,4.2,167.79,0.03,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000169,Desk Organizer 0169,CAT001,7.2,4.4,3.5,110.88,0.02,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000170,Charging Adapter 0170,CAT001,6.3,3.4,2.9,62.12,0.026,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000171,USB-C Cable 0171,CAT001,12.4,7.2,6.2,553.54,0.247,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000172,Phone Case 0172,CAT001,11.3,6.8,6.1,468.72,0.218,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000173,AA Batteries 0173,CAT001,8.3,4.8,4.2,167.33,0.057,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000174,Desk Organizer 0174,CAT001,14.2,8.5,7.2,869.04,0.286,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000175,Charging Adapter 0175,CAT001,6.4,3.4,2.8,60.93,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000176,USB-C Cable 0176,CAT001,13.3,7.3,6.6,640.79,0.197,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000177,Phone Case 0177,CAT001,5.4,3.2,2.5,43.2,0.013,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000178,AA Batteries 0178,CAT001,6.8,3.7,3.1,78.0,0.033,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000179,Desk Organizer 0179,CAT001,9.4,5.5,4.6,237.82,0.087,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000180,Charging Adapter 0180,CAT001,9.6,6.2,5.2,309.5,0.048,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000181,USB-C Cable 0181,CAT001,5.4,2.9,2.4,37.58,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000182,Phone Case 0182,CAT001,10.5,6.2,4.9,318.99,0.131,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000183,AA Batteries 0183,CAT001,13.0,8.0,6.1,634.4,0.205,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000184,Desk Organizer 0184,CAT001,13.6,8.3,6.1,688.57,0.267,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000185,Charging Adapter 0185,CAT001,13.7,8.2,6.5,730.21,0.2,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000186,USB-C Cable 0186,CAT001,6.9,4.2,3.5,101.43,0.051,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000187,Phone Case 0187,CAT001,11.6,6.5,5.6,422.24,0.172,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000188,AA Batteries 0188,CAT001,5.6,3.1,2.6,45.14,0.011,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000189,Desk Organizer 0189,CAT001,15.3,8.3,7.1,901.63,0.25,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000190,Charging Adapter 0190,CAT001,7.3,4.4,3.9,125.27,0.061,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000191,USB-C Cable 0191,CAT001,7.4,4.1,3.9,118.33,0.053,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000192,Phone Case 0192,CAT001,12.8,7.2,5.7,525.31,0.198,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000193,AA Batteries 0193,CAT001,5.6,3.4,2.7,51.41,0.011,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000194,Desk Organizer 0194,CAT001,6.2,3.8,3.1,73.04,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000195,Charging Adapter 0195,CAT001,8.5,4.9,4.0,166.6,0.052,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000196,USB-C Cable 0196,CAT001,11.5,6.9,5.4,428.49,0.136,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000197,Phone Case 0197,CAT001,14.1,8.2,6.6,763.09,0.12,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000198,AA Batteries 0198,CAT001,10.0,6.1,5.0,305.0,0.095,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000199,Desk Organizer 0199,CAT001,9.7,5.6,5.0,271.6,0.074,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000200,Charging Adapter 0200,CAT001,15.8,9.2,6.9,1002.98,0.437,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000201,USB-C Cable 0201,CAT001,13.4,9.0,7.5,904.5,0.249,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000202,Phone Case 0202,CAT001,7.4,5.1,3.9,147.19,0.061,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000203,AA Batteries 0203,CAT001,7.3,4.0,3.5,102.2,0.024,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000204,Desk Organizer 0204,CAT001,9.5,5.3,4.5,226.58,0.065,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000205,Charging Adapter 0205,CAT001,9.1,5.3,4.4,212.21,0.087,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000206,USB-C Cable 0206,CAT001,11.0,6.0,5.7,376.2,0.067,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000207,Phone Case 0207,CAT001,5.7,3.1,2.6,45.94,0.013,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000208,AA Batteries 0208,CAT001,7.9,4.7,3.7,137.38,0.047,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000209,Desk Organizer 0209,CAT001,9.7,5.7,4.6,254.33,0.046,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000210,Charging Adapter 0210,CAT001,14.9,8.5,7.5,949.88,0.335,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000211,USB-C Cable 0211,CAT001,5.6,3.3,3.0,55.44,0.013,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000212,Phone Case 0212,CAT001,14.8,8.3,6.8,835.31,0.209,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000213,AA Batteries 0213,CAT001,9.3,5.3,4.4,216.88,0.066,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000214,Desk Organizer 0214,CAT001,7.3,4.3,3.3,103.59,0.04,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000215,Charging Adapter 0215,CAT001,12.3,7.9,6.7,651.04,0.163,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000216,USB-C Cable 0216,CAT001,12.3,7.6,6.5,607.62,0.154,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000217,Phone Case 0217,CAT001,14.2,8.8,6.9,862.22,0.358,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000218,AA Batteries 0218,CAT001,11.2,6.8,5.5,418.88,0.146,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000219,Desk Organizer 0219,CAT001,6.7,3.6,3.1,74.77,0.022,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000220,Charging Adapter 0220,CAT001,5.8,3.6,3.1,64.73,0.018,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000221,USB-C Cable 0221,CAT001,14.1,8.7,7.0,858.69,0.235,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000222,Phone Case 0222,CAT001,14.6,7.8,6.4,728.83,0.347,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000223,AA Batteries 0223,CAT001,10.6,6.2,5.2,341.74,0.114,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000224,Desk Organizer 0224,CAT001,12.5,7.5,6.5,609.38,0.205,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000225,Charging Adapter 0225,CAT001,13.7,8.2,6.8,763.91,0.265,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000226,USB-C Cable 0226,CAT001,8.7,6.0,4.8,250.56,0.094,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000227,Phone Case 0227,CAT001,6.3,3.9,3.6,88.45,0.019,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000228,AA Batteries 0228,CAT001,7.7,4.4,3.6,121.97,0.05,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000229,Desk Organizer 0229,CAT001,9.7,5.1,4.6,227.56,0.068,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000230,Charging Adapter 0230,CAT001,7.7,4.8,4.1,151.54,0.06,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000231,USB-C Cable 0231,CAT001,7.6,4.7,3.8,135.74,0.04,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000232,Phone Case 0232,CAT001,7.8,4.4,4.1,140.71,0.05,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000233,AA Batteries 0233,CAT001,12.8,7.7,6.7,660.35,0.245,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000234,Desk Organizer 0234,CAT001,9.8,5.5,4.9,264.11,0.109,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000235,Charging Adapter 0235,CAT001,10.0,5.9,5.0,295.0,0.144,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000236,USB-C Cable 0236,CAT001,9.5,6.0,5.1,290.7,0.127,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000237,Phone Case 0237,CAT001,5.9,3.7,3.0,65.49,0.023,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000238,AA Batteries 0238,CAT001,11.2,6.6,5.8,428.74,0.196,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000239,Desk Organizer 0239,CAT001,9.8,6.5,5.0,318.5,0.086,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000240,Charging Adapter 0240,CAT001,14.1,8.6,7.5,909.45,0.4,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000241,USB-C Cable 0241,CAT001,6.9,3.8,3.2,83.9,0.03,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000242,Phone Case 0242,CAT001,9.5,5.3,4.8,241.68,0.057,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000243,AA Batteries 0243,CAT001,10.0,6.1,4.6,280.6,0.111,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000244,Desk Organizer 0244,CAT001,8.8,5.5,4.8,232.32,0.046,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000245,Charging Adapter 0245,CAT001,8.0,4.6,3.8,139.84,0.034,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000246,USB-C Cable 0246,CAT001,13.1,8.3,6.9,750.24,0.296,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000247,Phone Case 0247,CAT001,15.8,10.1,8.5,1356.43,0.598,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000248,AA Batteries 0248,CAT001,6.4,3.8,3.2,77.82,0.028,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000249,Desk Organizer 0249,CAT001,9.2,5.9,4.7,255.12,0.074,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000250,Charging Adapter 0250,CAT001,12.1,7.5,6.3,571.73,0.141,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000251,USB-C Cable 0251,CAT001,13.8,8.2,7.1,803.44,0.253,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000252,Phone Case 0252,CAT001,14.1,8.5,7.6,910.86,0.25,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000253,AA Batteries 0253,CAT001,6.1,3.6,3.3,72.47,0.025,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000254,Desk Organizer 0254,CAT001,10.6,7.0,5.2,385.84,0.168,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000255,Charging Adapter 0255,CAT001,8.5,4.8,4.0,163.2,0.031,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000256,USB-C Cable 0256,CAT001,12.9,7.2,6.0,557.28,0.235,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000257,Phone Case 0257,CAT001,6.1,3.5,3.2,68.32,0.017,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000258,AA Batteries 0258,CAT001,6.2,3.6,3.1,69.19,0.019,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000259,Desk Organizer 0259,CAT001,16.8,9.2,8.5,1313.76,0.403,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000260,Charging Adapter 0260,CAT001,7.7,4.6,3.7,131.05,0.025,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000261,USB-C Cable 0261,CAT001,16.8,10.1,8.5,1442.28,0.383,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000262,Phone Case 0262,CAT001,13.2,8.5,7.0,785.4,0.237,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000263,AA Batteries 0263,CAT001,11.8,6.7,5.5,434.83,0.091,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000264,Desk Organizer 0264,CAT001,10.8,6.1,5.1,335.99,0.166,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000265,Charging Adapter 0265,CAT001,13.7,7.7,6.7,706.78,0.304,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000266,USB-C Cable 0266,CAT001,15.3,8.4,7.4,951.05,0.319,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000267,Phone Case 0267,CAT001,5.4,3.3,2.6,46.33,0.014,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000268,AA Batteries 0268,CAT001,15.1,9.5,7.6,1090.22,0.522,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000269,Desk Organizer 0269,CAT001,8.6,5.2,3.9,174.41,0.046,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000270,Charging Adapter 0270,CAT001,15.4,9.1,7.8,1093.09,0.335,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000271,USB-C Cable 0271,CAT001,15.0,9.7,7.3,1062.15,0.16,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000272,Phone Case 0272,CAT001,5.8,3.6,3.0,62.64,0.022,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000273,AA Batteries 0273,CAT001,9.6,5.4,4.7,243.65,0.119,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000274,Desk Organizer 0274,CAT001,7.5,4.9,3.9,143.32,0.066,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000275,Charging Adapter 0275,CAT001,5.5,3.2,2.7,47.52,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000276,USB-C Cable 0276,CAT001,9.3,5.1,4.6,218.18,0.06,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000277,Phone Case 0277,CAT001,12.1,6.7,6.2,502.63,0.1,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000278,AA Batteries 0278,CAT001,6.4,4.0,3.1,79.36,0.012,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000279,Desk Organizer 0279,CAT001,13.1,7.8,5.9,602.86,0.192,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000280,Charging Adapter 0280,CAT001,12.4,7.5,6.2,576.6,0.095,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000281,USB-C Cable 0281,CAT001,14.6,8.2,7.0,838.04,0.171,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000282,Phone Case 0282,CAT001,15.6,8.7,6.9,936.47,0.216,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000283,AA Batteries 0283,CAT001,11.5,6.1,5.5,385.82,0.12,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000284,Desk Organizer 0284,CAT001,8.0,4.3,4.0,137.6,0.047,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000285,Charging Adapter 0285,CAT001,9.1,5.1,4.5,208.84,0.047,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000286,USB-C Cable 0286,CAT001,10.0,5.6,4.9,274.4,0.109,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000287,Phone Case 0287,CAT001,11.4,6.5,5.5,407.55,0.165,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000288,AA Batteries 0288,CAT001,7.0,4.7,3.6,118.44,0.025,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000289,Desk Organizer 0289,CAT001,10.7,6.5,5.4,375.57,0.124,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000290,Charging Adapter 0290,CAT001,14.4,8.0,6.9,794.88,0.151,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000291,USB-C Cable 0291,CAT001,9.0,5.4,4.3,208.98,0.074,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000292,Phone Case 0292,CAT001,10.2,6.9,5.2,365.98,0.143,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000293,AA Batteries 0293,CAT001,7.1,4.0,3.4,96.56,0.021,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000294,Desk Organizer 0294,CAT001,16.9,9.0,7.9,1201.59,0.351,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000295,Charging Adapter 0295,CAT001,5.5,3.2,2.4,42.24,0.015,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000296,USB-C Cable 0296,CAT001,5.0,2.9,2.4,34.8,0.01,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000297,Phone Case 0297,CAT001,16.5,10.2,7.5,1262.25,0.36,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000298,AA Batteries 0298,CAT001,6.9,4.0,3.3,91.08,0.032,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000299,Desk Organizer 0299,CAT001,5.9,3.6,2.9,61.6,0.013,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000300,Charging Adapter 0300,CAT001,11.9,7.0,5.8,483.14,0.199,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000301,Hardcover Notebook 0001,CAT002,14.5,10.1,2.7,395.42,0.316,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000302,Paperback Novel 0002,CAT002,25.4,16.2,4.4,1810.51,1.373,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000303,Cookbook 0003,CAT002,22.5,15.4,3.9,1351.35,0.802,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000304,Art Album 0004,CAT002,28.9,21.0,5.5,3337.95,2.087,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000305,Study Guide 0005,CAT002,14.1,10.2,2.6,373.93,0.236,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000306,Hardcover Notebook 0006,CAT002,29.3,21.1,5.2,3214.8,1.918,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000307,Paperback Novel 0007,CAT002,16.2,12.5,3.3,668.25,0.531,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000308,Cookbook 0008,CAT002,27.2,18.3,5.1,2538.58,1.543,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000309,Art Album 0009,CAT002,13.9,10.2,2.8,396.98,0.288,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000310,Study Guide 0010,CAT002,26.7,20.4,5.6,3050.21,1.608,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000311,Hardcover Notebook 0011,CAT002,20.5,13.5,3.6,996.3,0.538,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000312,Paperback Novel 0012,CAT002,23.2,16.9,4.4,1725.15,1.533,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000313,Cookbook 0013,CAT002,20.8,15.4,4.6,1473.47,1.218,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000314,Art Album 0014,CAT002,26.4,19.7,5.4,2808.43,2.482,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000315,Study Guide 0015,CAT002,26.4,16.5,5.1,2221.56,1.504,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000316,Hardcover Notebook 0016,CAT002,19.9,13.1,3.3,860.28,0.472,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000317,Paperback Novel 0017,CAT002,16.7,11.7,3.5,683.87,0.555,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000318,Cookbook 0018,CAT002,17.9,13.2,3.0,708.84,0.481,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000319,Art Album 0019,CAT002,21.5,15.8,4.2,1426.74,0.769,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000320,Study Guide 0020,CAT002,22.7,15.8,4.1,1470.51,0.772,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000321,Hardcover Notebook 0021,CAT002,14.7,11.4,3.0,502.74,0.32,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000322,Paperback Novel 0022,CAT002,18.2,13.7,3.6,897.62,0.477,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000323,Cookbook 0023,CAT002,22.5,18.3,4.5,1852.88,1.022,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000324,Art Album 0024,CAT002,24.1,17.0,4.9,2007.53,1.052,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000325,Study Guide 0025,CAT002,22.5,16.6,4.6,1718.1,1.12,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000326,Hardcover Notebook 0026,CAT002,13.2,9.6,2.3,291.46,0.261,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000327,Paperback Novel 0027,CAT002,22.5,16.1,4.3,1557.68,1.307,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000328,Cookbook 0028,CAT002,15.2,11.2,3.0,510.72,0.325,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000329,Art Album 0029,CAT002,25.5,20.2,5.1,2627.01,1.369,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000330,Study Guide 0030,CAT002,25.1,19.2,5.3,2554.18,1.585,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000331,Hardcover Notebook 0031,CAT002,18.3,12.6,3.3,760.91,0.426,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000332,Paperback Novel 0032,CAT002,16.7,10.9,2.8,509.68,0.353,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000333,Cookbook 0033,CAT002,16.3,11.0,3.3,591.69,0.341,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000334,Art Album 0034,CAT002,14.7,9.4,2.5,345.45,0.276,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000335,Study Guide 0035,CAT002,21.1,14.6,3.6,1109.02,0.735,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000336,Hardcover Notebook 0036,CAT002,27.1,17.9,4.9,2376.94,1.735,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000337,Paperback Novel 0037,CAT002,17.6,12.5,3.3,726.0,0.412,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000338,Cookbook 0038,CAT002,19.0,15.4,3.9,1141.14,0.815,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000339,Art Album 0039,CAT002,13.9,10.8,2.7,405.32,0.298,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000340,Study Guide 0040,CAT002,21.4,13.3,3.6,1024.63,0.701,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000341,Hardcover Notebook 0041,CAT002,18.2,11.5,3.4,711.62,0.46,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000342,Paperback Novel 0042,CAT002,14.8,11.4,3.1,523.03,0.438,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000343,Cookbook 0043,CAT002,17.7,13.2,3.5,817.74,0.515,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000344,Art Album 0044,CAT002,25.0,18.1,5.4,2443.5,1.274,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000345,Study Guide 0045,CAT002,22.0,16.9,4.6,1710.28,1.133,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000346,Hardcover Notebook 0046,CAT002,26.0,16.7,4.5,1953.9,1.538,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000347,Paperback Novel 0047,CAT002,26.3,19.3,4.8,2436.43,1.319,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000348,Cookbook 0048,CAT002,24.3,18.4,4.7,2101.46,1.605,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000349,Art Album 0049,CAT002,26.7,19.1,4.7,2396.86,1.923,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000350,Study Guide 0050,CAT002,15.4,11.3,3.1,539.46,0.333,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000351,Hardcover Notebook 0051,CAT002,27.5,19.7,5.7,3087.97,1.741,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000352,Paperback Novel 0052,CAT002,16.0,11.3,2.9,524.32,0.288,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000353,Cookbook 0053,CAT002,15.5,11.2,2.9,503.44,0.442,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000354,Art Album 0054,CAT002,24.6,17.4,4.6,1968.98,1.042,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000355,Study Guide 0055,CAT002,27.0,20.2,5.3,2890.62,2.511,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000356,Hardcover Notebook 0056,CAT002,24.7,15.9,4.3,1688.74,1.352,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000357,Paperback Novel 0057,CAT002,27.9,17.8,5.0,2483.1,1.903,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000358,Cookbook 0058,CAT002,26.1,17.0,4.9,2174.13,1.5,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000359,Art Album 0059,CAT002,28.4,20.9,5.8,3442.65,2.469,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000360,Study Guide 0060,CAT002,15.0,10.3,2.6,401.7,0.337,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000361,Hardcover Notebook 0061,CAT002,21.7,17.4,4.2,1585.84,1.308,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000362,Paperback Novel 0062,CAT002,17.1,10.6,3.0,543.78,0.354,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000363,Cookbook 0063,CAT002,15.0,9.7,2.7,392.85,0.343,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000364,Art Album 0064,CAT002,27.0,20.6,5.1,2836.62,2.163,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000365,Study Guide 0065,CAT002,19.7,12.6,3.4,843.95,0.642,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000366,Hardcover Notebook 0066,CAT002,27.0,20.0,5.2,2808.0,1.788,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000367,Paperback Novel 0067,CAT002,17.8,12.8,3.1,706.3,0.38,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000368,Cookbook 0068,CAT002,14.8,9.8,2.9,420.62,0.358,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000369,Art Album 0069,CAT002,16.3,11.2,2.9,529.42,0.391,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000370,Study Guide 0070,CAT002,17.5,11.7,2.9,593.77,0.456,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000371,Hardcover Notebook 0071,CAT002,19.4,14.1,3.8,1039.45,0.589,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000372,Paperback Novel 0072,CAT002,16.4,12.3,3.1,625.33,0.426,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000373,Cookbook 0073,CAT002,29.7,19.9,5.2,3073.36,1.958,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000374,Art Album 0074,CAT002,17.7,13.0,3.9,897.39,0.771,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000375,Study Guide 0075,CAT002,20.0,14.4,3.9,1123.2,0.882,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000376,Hardcover Notebook 0076,CAT002,13.2,10.8,2.6,370.66,0.26,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000377,Paperback Novel 0077,CAT002,28.6,20.9,5.8,3466.89,2.349,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000378,Cookbook 0078,CAT002,28.6,20.5,4.8,2814.24,1.752,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000379,Art Album 0079,CAT002,25.3,16.8,4.4,1870.18,1.362,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000380,Study Guide 0080,CAT002,19.0,13.1,3.3,821.37,0.701,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000381,Hardcover Notebook 0081,CAT002,14.6,9.3,2.5,339.45,0.249,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000382,Paperback Novel 0082,CAT002,22.1,17.5,4.7,1817.73,1.331,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000383,Cookbook 0083,CAT002,25.8,19.5,4.9,2465.19,2.008,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000384,Art Album 0084,CAT002,16.6,11.1,3.3,608.06,0.393,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000385,Study Guide 0085,CAT002,21.3,13.9,3.7,1095.46,0.726,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000386,Hardcover Notebook 0086,CAT002,22.9,17.7,4.4,1783.45,1.434,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000387,Paperback Novel 0087,CAT002,27.2,18.0,5.2,2545.92,1.625,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000388,Cookbook 0088,CAT002,22.0,15.2,4.4,1471.36,1.158,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000389,Art Album 0089,CAT002,20.3,16.1,4.1,1340.0,0.684,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000390,Study Guide 0090,CAT002,22.3,17.1,4.5,1715.99,1.077,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000391,Hardcover Notebook 0091,CAT002,16.8,12.1,3.5,711.48,0.569,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000392,Paperback Novel 0092,CAT002,18.9,12.6,3.5,833.49,0.626,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000393,Cookbook 0093,CAT002,16.8,12.2,3.4,696.86,0.547,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000394,Art Album 0094,CAT002,26.6,17.9,5.3,2523.54,1.593,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000395,Study Guide 0095,CAT002,24.5,15.9,4.7,1830.89,0.942,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000396,Hardcover Notebook 0096,CAT002,28.5,20.2,4.8,2763.36,1.531,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000397,Paperback Novel 0097,CAT002,12.7,9.1,2.5,288.92,0.192,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000398,Cookbook 0098,CAT002,25.8,19.2,4.9,2427.26,2.131,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000399,Art Album 0099,CAT002,15.5,11.2,3.2,555.52,0.372,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000400,Study Guide 0100,CAT002,23.6,17.6,4.8,1993.73,1.764,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000401,Hardcover Notebook 0101,CAT002,26.0,17.6,5.2,2379.52,1.754,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000402,Paperback Novel 0102,CAT002,27.2,17.8,5.2,2517.63,1.777,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000403,Cookbook 0103,CAT002,21.4,14.8,3.9,1235.21,0.958,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000404,Art Album 0104,CAT002,18.4,12.5,3.6,828.0,0.538,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000405,Study Guide 0105,CAT002,19.7,13.9,3.8,1040.55,0.715,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000406,Hardcover Notebook 0106,CAT002,18.7,12.4,3.5,811.58,0.59,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000407,Paperback Novel 0107,CAT002,18.9,13.8,3.9,1017.2,0.567,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000408,Cookbook 0108,CAT002,16.8,11.8,3.1,614.54,0.433,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000409,Art Album 0109,CAT002,17.8,14.0,3.8,946.96,0.495,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000410,Study Guide 0110,CAT002,21.1,14.6,4.0,1232.24,0.944,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000411,Hardcover Notebook 0111,CAT002,19.3,13.2,3.6,917.14,0.526,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000412,Paperback Novel 0112,CAT002,18.5,12.9,3.6,859.14,0.664,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000413,Cookbook 0113,CAT002,23.7,16.7,4.6,1820.63,1.172,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000414,Art Album 0114,CAT002,17.3,14.4,3.8,946.66,0.668,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000415,Study Guide 0115,CAT002,17.9,12.8,3.5,801.92,0.46,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000416,Hardcover Notebook 0116,CAT002,29.8,19.2,5.3,3032.45,2.014,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000417,Paperback Novel 0117,CAT002,17.0,12.2,3.5,725.9,0.602,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000418,Cookbook 0118,CAT002,20.7,15.4,3.9,1243.24,1.037,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000419,Art Album 0119,CAT002,18.1,14.1,3.3,842.19,0.436,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000420,Study Guide 0120,CAT002,27.4,17.4,4.9,2336.12,1.586,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000421,Hardcover Notebook 0121,CAT002,21.2,15.0,3.8,1208.4,0.638,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000422,Paperback Novel 0122,CAT002,24.2,18.6,4.6,2070.55,1.092,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000423,Cookbook 0123,CAT002,17.9,11.9,3.5,745.53,0.592,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000424,Art Album 0124,CAT002,24.3,17.5,4.6,1956.15,1.735,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000425,Study Guide 0125,CAT002,13.1,9.9,2.3,298.29,0.193,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000426,Hardcover Notebook 0126,CAT002,24.2,20.0,5.4,2613.6,1.655,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000427,Paperback Novel 0127,CAT002,16.1,12.8,3.4,700.67,0.489,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000428,Cookbook 0128,CAT002,26.7,19.8,5.4,2854.76,2.136,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000429,Art Album 0129,CAT002,15.2,9.9,2.6,391.25,0.31,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000430,Study Guide 0130,CAT002,22.9,16.4,4.4,1652.46,1.442,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000431,Hardcover Notebook 0131,CAT002,17.9,12.5,3.5,783.12,0.555,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000432,Paperback Novel 0132,CAT002,27.0,20.3,5.9,3233.79,2.653,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000433,Cookbook 0133,CAT002,25.0,15.6,4.6,1794.0,1.508,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000434,Art Album 0134,CAT002,16.5,11.7,3.6,694.98,0.595,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000435,Study Guide 0135,CAT002,15.2,10.3,2.5,391.4,0.343,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000436,Hardcover Notebook 0136,CAT002,14.2,9.1,2.6,335.97,0.199,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000437,Paperback Novel 0137,CAT002,22.1,16.1,4.1,1458.82,0.885,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000438,Cookbook 0138,CAT002,22.2,15.4,4.1,1401.71,0.895,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000439,Art Album 0139,CAT002,12.7,9.2,2.5,292.1,0.194,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000440,Study Guide 0140,CAT002,19.1,14.5,3.7,1024.72,0.576,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000441,Hardcover Notebook 0141,CAT002,26.6,18.9,5.5,2765.07,1.792,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000442,Paperback Novel 0142,CAT002,18.6,12.3,3.7,846.49,0.447,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000443,Cookbook 0143,CAT002,16.2,11.2,3.0,544.32,0.293,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000444,Art Album 0144,CAT002,16.1,11.2,3.1,558.99,0.308,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000445,Study Guide 0145,CAT002,14.5,10.1,2.7,395.42,0.351,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000446,Hardcover Notebook 0146,CAT002,20.9,15.9,4.3,1428.93,1.158,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000447,Paperback Novel 0147,CAT002,25.4,16.4,4.4,1832.86,1.518,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000448,Cookbook 0148,CAT002,29.3,20.6,5.8,3500.76,2.389,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000449,Art Album 0149,CAT002,23.5,18.2,4.7,2010.19,1.766,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000450,Study Guide 0150,CAT002,19.8,14.0,4.0,1108.8,0.977,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000451,Hardcover Notebook 0151,CAT002,13.5,9.0,2.6,315.9,0.255,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000452,Paperback Novel 0152,CAT002,14.6,9.4,2.8,384.27,0.197,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000453,Cookbook 0153,CAT002,22.4,15.9,4.6,1638.34,1.018,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000454,Art Album 0154,CAT002,26.8,19.7,5.5,2903.78,1.702,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000455,Study Guide 0155,CAT002,23.4,14.9,4.3,1499.24,0.873,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000456,Hardcover Notebook 0156,CAT002,14.4,11.1,2.7,431.57,0.329,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000457,Paperback Novel 0157,CAT002,21.1,15.8,4.0,1333.52,1.079,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000458,Cookbook 0158,CAT002,22.2,18.1,4.3,1727.83,1.262,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000459,Art Album 0159,CAT002,19.3,14.9,3.8,1092.77,0.654,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000460,Study Guide 0160,CAT002,25.4,18.3,5.6,2602.99,1.412,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000461,Hardcover Notebook 0161,CAT002,13.1,10.0,2.6,340.6,0.217,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000462,Paperback Novel 0162,CAT002,26.6,18.1,5.1,2455.45,1.504,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000463,Cookbook 0163,CAT002,18.2,12.6,3.6,825.55,0.719,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000464,Art Album 0164,CAT002,27.2,19.7,6.0,3215.04,2.081,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000465,Study Guide 0165,CAT002,27.9,18.8,4.8,2517.7,1.891,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000466,Hardcover Notebook 0166,CAT002,15.1,11.4,2.9,499.21,0.373,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000467,Paperback Novel 0167,CAT002,27.7,20.1,5.5,3062.23,2.712,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000468,Cookbook 0168,CAT002,23.9,16.4,4.3,1685.43,1.195,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000469,Art Album 0169,CAT002,25.9,17.8,4.7,2166.79,1.293,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000470,Study Guide 0170,CAT002,20.1,14.7,3.8,1122.79,0.668,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000471,Hardcover Notebook 0171,CAT002,15.4,9.9,2.7,411.64,0.289,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000472,Paperback Novel 0172,CAT002,28.0,20.3,5.9,3353.56,2.871,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000473,Cookbook 0173,CAT002,16.8,11.2,2.9,545.66,0.45,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000474,Art Album 0174,CAT002,14.6,9.7,2.5,354.05,0.251,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000475,Study Guide 0175,CAT002,17.8,12.2,3.3,716.63,0.549,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000476,Hardcover Notebook 0176,CAT002,13.3,10.0,2.4,319.2,0.231,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000477,Paperback Novel 0177,CAT002,22.3,15.5,4.5,1555.43,1.263,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000478,Cookbook 0178,CAT002,22.3,15.6,3.8,1321.94,0.907,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000479,Art Album 0179,CAT002,25.5,19.4,4.5,2226.15,1.902,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000480,Study Guide 0180,CAT002,14.9,11.1,2.9,479.63,0.33,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000481,Ceramic Mug 0001,CAT003,19.1,14.4,10.3,2832.91,1.966,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000482,Storage Basket 0002,CAT003,18.7,13.9,10.3,2677.28,1.647,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000483,LED Lamp 0003,CAT003,26.2,18.5,14.4,6979.68,2.394,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000484,Bath Towel Set 0004,CAT003,27.3,17.7,14.3,6909.9,3.176,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000485,Kitchen Scale 0005,CAT003,26.5,20.3,16.0,8607.2,4.711,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000486,Ceramic Mug 0006,CAT003,31.0,23.1,17.5,12531.75,8.288,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000487,Storage Basket 0007,CAT003,19.8,15.6,11.8,3644.78,1.932,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000488,LED Lamp 0008,CAT003,24.6,17.0,13.5,5645.7,1.861,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000489,Bath Towel Set 0009,CAT003,24.6,17.0,14.3,5980.26,2.648,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000490,Kitchen Scale 0010,CAT003,14.7,12.4,9.1,1658.75,1.091,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000491,Ceramic Mug 0011,CAT003,34.5,25.2,18.2,15823.08,5.503,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000492,Storage Basket 0012,CAT003,25.5,19.3,14.7,7234.61,3.876,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000493,LED Lamp 0013,CAT003,25.6,20.7,16.5,8743.68,4.164,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000494,Bath Towel Set 0014,CAT003,20.2,14.9,12.3,3702.05,1.669,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000495,Kitchen Scale 0015,CAT003,25.0,16.1,13.0,5232.5,2.661,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000496,Ceramic Mug 0016,CAT003,30.2,21.6,15.2,9915.26,3.222,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000497,Storage Basket 0017,CAT003,18.5,13.9,11.5,2957.23,1.538,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000498,LED Lamp 0018,CAT003,21.3,15.2,11.9,3852.74,1.289,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000499,Bath Towel Set 0019,CAT003,18.0,12.4,10.5,2343.6,1.193,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000500,Kitchen Scale 0020,CAT003,18.0,12.7,10.8,2468.88,1.381,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000501,Ceramic Mug 0021,CAT003,29.7,19.9,17.9,10579.44,4.31,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000502,Storage Basket 0022,CAT003,18.6,15.4,12.5,3580.5,1.553,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000503,LED Lamp 0023,CAT003,29.5,20.7,18.3,11174.9,6.532,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000504,Bath Towel Set 0024,CAT003,21.5,14.5,12.1,3772.17,1.73,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000505,Kitchen Scale 0025,CAT003,24.6,18.5,14.0,6371.4,2.809,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000506,Ceramic Mug 0026,CAT003,26.5,20.9,17.5,9692.37,4.347,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000507,Storage Basket 0027,CAT003,26.5,19.8,15.7,8237.79,2.753,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000508,LED Lamp 0028,CAT003,27.3,21.4,16.9,9873.32,4.28,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000509,Bath Towel Set 0029,CAT003,28.7,22.5,17.7,11429.77,4.504,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000510,Kitchen Scale 0030,CAT003,23.3,15.6,12.8,4652.54,2.419,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000511,Ceramic Mug 0031,CAT003,26.4,22.1,16.5,9626.76,4.529,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000512,Storage Basket 0032,CAT003,25.6,20.9,16.8,8988.67,4.883,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000513,LED Lamp 0033,CAT003,27.1,21.1,15.8,9034.6,3.031,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000514,Bath Towel Set 0034,CAT003,14.4,10.3,8.0,1186.56,0.57,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000515,Kitchen Scale 0035,CAT003,25.0,18.1,13.5,6108.75,2.265,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000516,Ceramic Mug 0036,CAT003,27.1,20.8,17.4,9808.03,5.692,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000517,Storage Basket 0037,CAT003,17.7,13.4,9.6,2276.93,0.868,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000518,LED Lamp 0038,CAT003,14.8,10.5,9.1,1414.14,0.749,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000519,Bath Towel Set 0039,CAT003,31.2,23.8,19.4,14405.66,8.089,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000520,Kitchen Scale 0040,CAT003,24.3,16.2,14.2,5589.97,3.527,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000521,Ceramic Mug 0041,CAT003,27.8,20.5,17.1,9745.29,4.691,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000522,Storage Basket 0042,CAT003,20.6,15.7,11.8,3816.36,1.533,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000523,LED Lamp 0043,CAT003,26.3,20.0,15.2,7995.2,4.093,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000524,Bath Towel Set 0044,CAT003,15.0,11.6,8.3,1444.2,0.884,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000525,Kitchen Scale 0045,CAT003,19.0,13.9,11.4,3010.74,2.008,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000526,Ceramic Mug 0046,CAT003,31.6,24.5,17.3,13393.66,5.345,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000527,Storage Basket 0047,CAT003,24.8,16.8,13.2,5499.65,2.086,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000528,LED Lamp 0048,CAT003,35.2,23.6,20.0,16614.4,8.585,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000529,Bath Towel Set 0049,CAT003,33.0,22.5,19.1,14181.75,5.827,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000530,Kitchen Scale 0050,CAT003,26.4,18.8,15.2,7544.06,3.483,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000531,Ceramic Mug 0051,CAT003,16.7,13.7,9.1,2081.99,0.747,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000532,Storage Basket 0052,CAT003,23.5,19.0,14.1,6295.65,3.875,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000533,LED Lamp 0053,CAT003,27.1,18.7,15.1,7652.23,4.358,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000534,Bath Towel Set 0054,CAT003,19.9,14.8,11.8,3475.34,1.99,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000535,Kitchen Scale 0055,CAT003,30.4,21.0,16.9,10788.96,6.224,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000536,Ceramic Mug 0056,CAT003,24.0,18.4,12.9,5696.64,1.915,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000537,Storage Basket 0057,CAT003,30.0,23.6,19.0,13452.0,7.664,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000538,LED Lamp 0058,CAT003,16.9,12.7,9.9,2124.84,1.265,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000539,Bath Towel Set 0059,CAT003,14.0,10.8,8.6,1300.32,0.908,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000540,Kitchen Scale 0060,CAT003,35.2,22.7,18.9,15101.86,8.392,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000541,Ceramic Mug 0061,CAT003,32.1,22.3,19.6,14030.27,9.575,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000542,Storage Basket 0062,CAT003,25.5,20.9,15.9,8473.9,4.922,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000543,LED Lamp 0063,CAT003,15.3,11.5,8.3,1460.39,0.876,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000544,Bath Towel Set 0064,CAT003,33.0,22.0,17.3,12559.8,6.078,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000545,Kitchen Scale 0065,CAT003,18.9,16.1,11.5,3499.34,1.46,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000546,Ceramic Mug 0066,CAT003,32.1,23.4,19.8,14872.57,8.914,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000547,Storage Basket 0067,CAT003,17.6,12.0,10.0,2112.0,0.794,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000548,LED Lamp 0068,CAT003,15.4,10.8,8.9,1480.25,0.919,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000549,Bath Towel Set 0069,CAT003,28.7,20.2,14.6,8464.2,3.235,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000550,Kitchen Scale 0070,CAT003,21.7,17.1,13.2,4898.12,3.236,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000551,Ceramic Mug 0071,CAT003,19.8,15.6,12.1,3737.45,2.31,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000552,Storage Basket 0072,CAT003,15.0,11.2,8.6,1444.8,0.705,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000553,LED Lamp 0073,CAT003,22.8,18.4,12.8,5369.86,2.015,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000554,Bath Towel Set 0074,CAT003,21.2,17.2,12.7,4630.93,3.042,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000555,Kitchen Scale 0075,CAT003,17.2,12.4,10.0,2132.8,0.767,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000556,Ceramic Mug 0076,CAT003,20.4,14.9,11.5,3495.54,2.296,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000557,Storage Basket 0077,CAT003,20.1,14.2,11.7,3339.41,1.366,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000558,LED Lamp 0078,CAT003,31.3,24.0,18.3,13746.96,7.23,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000559,Bath Towel Set 0079,CAT003,30.3,20.4,18.3,11311.6,6.092,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000560,Kitchen Scale 0080,CAT003,19.8,15.3,11.8,3574.69,1.518,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000561,Ceramic Mug 0081,CAT003,24.2,17.7,14.9,6382.27,3.958,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000562,Storage Basket 0082,CAT003,23.3,17.3,13.6,5482.02,3.598,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000563,LED Lamp 0083,CAT003,24.2,18.7,15.1,6833.35,2.143,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000564,Bath Towel Set 0084,CAT003,17.3,13.4,9.8,2271.84,0.816,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000565,Kitchen Scale 0085,CAT003,18.0,13.2,10.4,2471.04,1.349,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000566,Ceramic Mug 0086,CAT003,25.8,21.4,16.1,8889.13,4.193,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000567,Storage Basket 0087,CAT003,34.1,25.7,18.3,16037.57,8.804,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000568,LED Lamp 0088,CAT003,29.6,24.6,18.7,13616.59,8.937,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000569,Bath Towel Set 0089,CAT003,20.7,14.8,11.5,3523.14,1.112,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000570,Kitchen Scale 0090,CAT003,20.1,16.5,12.6,4178.79,2.856,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000571,Ceramic Mug 0091,CAT003,30.6,23.9,19.1,13968.59,9.291,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000572,Storage Basket 0092,CAT003,27.1,20.9,17.5,9911.82,5.617,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000573,LED Lamp 0093,CAT003,27.2,21.8,16.7,9902.43,5.981,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000574,Bath Towel Set 0094,CAT003,24.1,18.1,14.0,6106.94,3.891,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000575,Kitchen Scale 0095,CAT003,25.8,20.9,15.9,8573.6,4.777,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000576,Ceramic Mug 0096,CAT003,27.2,19.5,14.6,7743.84,5.236,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000577,Storage Basket 0097,CAT003,27.6,21.0,16.9,9795.24,4.876,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000578,LED Lamp 0098,CAT003,15.6,12.8,9.8,1956.86,0.793,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000579,Bath Towel Set 0099,CAT003,28.4,19.4,15.6,8594.98,3.041,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000580,Kitchen Scale 0100,CAT003,24.5,19.1,14.8,6925.66,2.266,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000581,Ceramic Mug 0101,CAT003,18.1,14.4,10.3,2684.59,1.14,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000582,Storage Basket 0102,CAT003,33.8,24.6,17.6,14634.05,8.059,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000583,LED Lamp 0103,CAT003,17.8,13.8,10.0,2456.4,0.963,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000584,Bath Towel Set 0104,CAT003,33.0,26.9,20.4,18109.08,5.882,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000585,Kitchen Scale 0105,CAT003,24.6,17.6,14.4,6234.62,3.895,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000586,Ceramic Mug 0106,CAT003,26.5,20.7,14.2,7789.41,2.617,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000587,Storage Basket 0107,CAT003,30.4,24.9,17.0,12868.32,5.04,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000588,LED Lamp 0108,CAT003,20.7,14.9,12.2,3762.85,1.549,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000589,Bath Towel Set 0109,CAT003,17.5,12.7,10.1,2244.72,0.89,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000590,Kitchen Scale 0110,CAT003,28.7,19.3,15.8,8751.78,4.87,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000591,Ceramic Mug 0111,CAT003,35.0,24.9,20.4,17778.6,9.75,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000592,Storage Basket 0112,CAT003,18.3,13.4,10.7,2623.85,1.04,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000593,LED Lamp 0113,CAT003,34.7,24.4,18.4,15578.91,8.005,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000594,Bath Towel Set 0114,CAT003,27.8,23.1,17.0,10917.06,6.948,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000595,Kitchen Scale 0115,CAT003,26.5,20.3,17.3,9306.54,3.15,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000596,Ceramic Mug 0116,CAT003,29.9,21.1,17.6,11103.66,3.758,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000597,Storage Basket 0117,CAT003,17.8,13.6,10.7,2590.26,1.446,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000598,LED Lamp 0118,CAT003,20.2,15.7,10.8,3425.11,1.708,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000599,Bath Towel Set 0119,CAT003,16.3,12.5,9.3,1894.88,1.279,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000600,Kitchen Scale 0120,CAT003,31.2,23.5,19.4,14224.08,5.004,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000601,Ceramic Mug 0121,CAT003,29.4,20.6,17.4,10538.14,3.625,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000602,Storage Basket 0122,CAT003,31.1,23.1,18.5,13290.59,4.444,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000603,LED Lamp 0123,CAT003,22.5,17.9,15.1,6081.52,3.097,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000604,Bath Towel Set 0124,CAT003,28.9,22.8,17.5,11531.1,3.588,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000605,Kitchen Scale 0125,CAT003,32.4,25.0,18.0,14580.0,6.622,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000606,Ceramic Mug 0126,CAT003,16.8,13.2,10.2,2261.95,0.822,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000607,Storage Basket 0127,CAT003,34.0,25.1,19.1,16299.94,10.132,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000608,LED Lamp 0128,CAT003,33.0,24.6,20.0,16236.0,9.751,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000609,Bath Towel Set 0129,CAT003,28.1,19.2,15.8,8524.42,3.934,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000610,Kitchen Scale 0130,CAT003,24.4,21.0,15.9,8147.16,4.528,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000611,Ceramic Mug 0131,CAT003,18.9,14.8,10.9,3048.95,1.504,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000612,Storage Basket 0132,CAT003,20.8,14.1,12.7,3724.66,1.502,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000613,LED Lamp 0133,CAT003,20.6,15.4,12.5,3965.5,1.364,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000614,Bath Towel Set 0134,CAT003,18.1,14.3,11.6,3002.43,1.795,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000615,Kitchen Scale 0135,CAT003,25.6,20.0,14.2,7270.4,4.939,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000616,Ceramic Mug 0136,CAT003,20.6,17.6,13.5,4894.56,1.982,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000617,Storage Basket 0137,CAT003,29.3,20.7,15.2,9218.95,6.2,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000618,LED Lamp 0138,CAT003,15.2,11.7,9.1,1618.34,1.051,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000619,Bath Towel Set 0139,CAT003,20.3,15.1,12.0,3678.36,1.906,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000620,Kitchen Scale 0140,CAT003,25.5,19.5,15.7,7806.82,3.27,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000621,Ceramic Mug 0141,CAT003,16.3,12.4,9.2,1859.5,1.184,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000622,Storage Basket 0142,CAT003,22.0,18.1,13.6,5415.52,2.461,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000623,LED Lamp 0143,CAT003,30.6,22.0,17.7,11915.64,6.852,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000624,Bath Towel Set 0144,CAT003,22.3,16.0,13.2,4709.76,2.617,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000625,Kitchen Scale 0145,CAT003,27.1,18.7,15.2,7702.9,4.423,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000626,Ceramic Mug 0146,CAT003,32.1,23.4,19.1,14346.77,8.432,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000627,Storage Basket 0147,CAT003,27.9,18.9,14.9,7856.92,5.208,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000628,LED Lamp 0148,CAT003,29.4,25.4,18.7,13964.41,6.993,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000629,Bath Towel Set 0149,CAT003,33.5,24.7,19.0,15721.55,10.817,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000630,Kitchen Scale 0150,CAT003,31.4,24.7,19.7,15278.93,8.899,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000631,Ceramic Mug 0151,CAT003,31.4,23.7,19.0,14139.42,7.443,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000632,Storage Basket 0152,CAT003,17.5,13.2,10.7,2471.7,1.573,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000633,LED Lamp 0153,CAT003,27.4,17.6,14.7,7088.93,2.924,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000634,Bath Towel Set 0154,CAT003,19.2,14.5,10.7,2978.88,1.715,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000635,Kitchen Scale 0155,CAT003,26.7,22.4,16.8,10047.74,3.822,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000636,Ceramic Mug 0156,CAT003,31.0,23.1,18.0,12889.8,6.604,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000637,Storage Basket 0157,CAT003,30.8,22.3,17.0,11676.28,4.931,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000638,LED Lamp 0158,CAT003,21.0,15.6,12.1,3963.96,1.939,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000639,Bath Towel Set 0159,CAT003,20.9,15.7,11.5,3773.49,1.465,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000640,Kitchen Scale 0160,CAT003,24.4,18.9,13.8,6364.01,3.611,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000641,Ceramic Mug 0161,CAT003,20.1,13.5,11.1,3011.99,1.262,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000642,Storage Basket 0162,CAT003,20.9,15.8,12.0,3962.64,2.62,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000643,LED Lamp 0163,CAT003,22.3,16.7,11.2,4170.99,2.529,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000644,Bath Towel Set 0164,CAT003,14.3,10.8,9.5,1467.18,0.853,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000645,Kitchen Scale 0165,CAT003,28.6,21.6,16.7,10316.59,6.6,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000646,Ceramic Mug 0166,CAT003,21.4,16.8,11.7,4206.38,1.275,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000647,Storage Basket 0167,CAT003,16.7,12.5,10.0,2087.5,1.255,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000648,LED Lamp 0168,CAT003,27.8,21.1,15.2,8916.02,3.622,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000649,Bath Towel Set 0169,CAT003,24.7,18.7,15.5,7159.3,2.903,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000650,Kitchen Scale 0170,CAT003,19.3,14.0,12.1,3269.42,1.86,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000651,Ceramic Mug 0171,CAT003,30.1,22.6,16.2,11020.21,7.643,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000652,Storage Basket 0172,CAT003,29.4,24.5,18.6,13397.58,5.084,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000653,LED Lamp 0173,CAT003,33.4,23.9,19.6,15645.9,6.914,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000654,Bath Towel Set 0174,CAT003,19.9,16.1,11.9,3812.64,2.014,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000655,Kitchen Scale 0175,CAT003,32.2,21.5,17.7,12253.71,5.176,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000656,Ceramic Mug 0176,CAT003,21.6,17.6,13.6,5170.18,2.325,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000657,Storage Basket 0177,CAT003,34.9,23.6,20.4,16802.26,7.519,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000658,LED Lamp 0178,CAT003,17.3,13.7,10.1,2393.8,1.425,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000659,Bath Towel Set 0179,CAT003,16.6,13.1,10.5,2283.33,0.962,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000660,Kitchen Scale 0180,CAT003,24.8,19.4,15.8,7601.7,3.927,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000661,Storage Bin 0001,CAT004,56.9,46.8,43.3,115304.44,37.474,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000662,Plastic Crate 0002,CAT004,52.2,36.1,37.0,69723.54,20.13,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000663,Wardrobe Box 0003,CAT004,55.0,39.3,44.6,96402.9,36.322,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000664,Stackable Container 0004,CAT004,52.0,40.4,40.0,84032.0,20.2,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000665,Moving Carton 0005,CAT004,50.7,35.5,39.9,71814.01,11.812,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000666,Storage Bin 0006,CAT004,49.7,41.9,40.7,84754.9,16.453,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000667,Plastic Crate 0007,CAT004,64.0,47.1,48.1,144992.64,28.243,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000668,Wardrobe Box 0008,CAT004,63.6,43.5,46.3,128093.58,49.576,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000669,Stackable Container 0009,CAT004,57.6,48.8,50.1,140825.09,46.469,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000670,Moving Carton 0010,CAT004,54.7,42.0,48.3,110964.42,42.637,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000671,Storage Bin 0011,CAT004,54.4,43.9,42.1,100541.54,20.753,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000672,Plastic Crate 0012,CAT004,66.8,49.2,46.9,154139.66,29.162,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000673,Wardrobe Box 0013,CAT004,39.2,27.7,30.1,32683.78,11.705,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000674,Stackable Container 0014,CAT004,39.4,31.2,32.7,40197.46,9.796,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000675,Moving Carton 0015,CAT004,42.0,33.1,31.6,43930.32,11.914,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000676,Storage Bin 0016,CAT004,35.5,26.2,28.4,26414.84,7.452,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000677,Plastic Crate 0017,CAT004,48.9,38.4,39.9,74922.62,23.389,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000678,Wardrobe Box 0018,CAT004,45.9,34.9,38.4,61513.34,21.113,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000679,Stackable Container 0019,CAT004,33.5,25.2,27.6,23299.92,8.446,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000680,Moving Carton 0020,CAT004,58.5,43.1,43.5,109678.72,36.638,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000681,Storage Bin 0021,CAT004,64.6,50.0,49.4,159562.0,45.411,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000682,Plastic Crate 0022,CAT004,48.9,39.6,43.1,83460.56,14.415,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000683,Wardrobe Box 0023,CAT004,52.1,40.1,43.4,90671.71,29.628,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000684,Stackable Container 0024,CAT004,41.6,33.7,31.2,43739.9,7.452,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000685,Moving Carton 0025,CAT004,37.9,32.8,30.3,37666.54,7.329,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000686,Storage Bin 0026,CAT004,55.8,41.8,39.2,91431.65,36.372,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000687,Plastic Crate 0027,CAT004,55.6,45.7,46.0,116882.32,36.101,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000688,Wardrobe Box 0028,CAT004,62.2,43.0,43.7,116880.02,41.487,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000689,Stackable Container 0029,CAT004,52.1,39.6,40.4,83351.66,13.137,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000690,Moving Carton 0030,CAT004,45.2,34.6,36.1,56457.51,15.503,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000691,Storage Bin 0031,CAT004,52.6,42.1,40.9,90571.41,15.384,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000692,Plastic Crate 0032,CAT004,54.9,44.7,41.8,102578.45,32.7,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000693,Wardrobe Box 0033,CAT004,40.3,28.1,28.5,32274.26,8.072,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000694,Stackable Container 0034,CAT004,48.1,39.6,39.4,75047.54,29.069,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000695,Moving Carton 0035,CAT004,47.5,41.2,40.5,79258.5,24.004,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000696,Storage Bin 0036,CAT004,51.0,39.0,37.6,74786.4,24.455,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000697,Plastic Crate 0037,CAT004,53.3,41.4,38.7,85396.19,24.223,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000698,Wardrobe Box 0038,CAT004,43.5,38.4,38.1,63642.24,25.15,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000699,Stackable Container 0039,CAT004,32.0,28.0,26.5,23744.0,6.248,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000700,Moving Carton 0040,CAT004,34.2,26.2,25.9,23207.44,5.687,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000701,Storage Bin 0041,CAT004,60.9,50.3,45.2,138459.8,31.536,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000702,Plastic Crate 0042,CAT004,35.6,29.6,27.0,28451.52,7.689,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000703,Wardrobe Box 0043,CAT004,63.6,52.2,50.8,168651.94,63.607,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000704,Stackable Container 0044,CAT004,45.4,39.3,35.7,63696.65,19.106,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000705,Moving Carton 0045,CAT004,57.5,46.9,47.4,127825.95,20.233,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000706,Storage Bin 0046,CAT004,42.2,34.3,32.8,47476.69,12.562,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000707,Plastic Crate 0047,CAT004,31.7,24.7,26.0,20357.74,5.319,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000708,Wardrobe Box 0048,CAT004,61.5,46.4,44.9,128126.64,26.258,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000709,Stackable Container 0049,CAT004,43.8,35.0,35.2,53961.6,20.121,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000710,Moving Carton 0050,CAT004,62.8,47.3,48.3,143472.25,43.189,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000711,Storage Bin 0051,CAT004,51.3,44.7,45.7,104795.13,34.198,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000712,Plastic Crate 0052,CAT004,58.9,49.5,45.3,132074.41,25.098,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000713,Wardrobe Box 0053,CAT004,44.7,34.8,36.7,57089.05,19.367,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000714,Stackable Container 0054,CAT004,57.3,47.2,42.8,115755.17,18.101,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000715,Moving Carton 0055,CAT004,60.2,45.2,48.9,133058.86,21.386,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000716,Storage Bin 0056,CAT004,44.1,33.5,33.2,49048.02,16.111,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000717,Plastic Crate 0057,CAT004,53.3,41.5,40.9,90468.75,24.812,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000718,Wardrobe Box 0058,CAT004,43.0,36.1,36.6,56814.18,20.724,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000719,Stackable Container 0059,CAT004,45.2,35.3,31.6,50419.7,15.987,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000720,Moving Carton 0060,CAT004,58.4,41.0,41.4,99128.16,21.257,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000721,Storage Bin 0061,CAT004,55.0,43.8,42.4,102141.6,39.097,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000722,Plastic Crate 0062,CAT004,33.3,24.8,26.5,21884.76,8.593,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000723,Wardrobe Box 0063,CAT004,36.1,28.9,26.7,27855.84,8.461,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000724,Stackable Container 0064,CAT004,42.5,30.0,31.8,40545.0,7.798,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000725,Moving Carton 0065,CAT004,31.1,26.5,25.3,20851.0,3.189,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000726,Storage Bin 0066,CAT004,42.5,33.2,32.3,45575.3,13.255,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000727,Plastic Crate 0067,CAT004,31.9,23.7,25.8,19505.57,7.676,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000728,Wardrobe Box 0068,CAT004,60.5,44.1,48.3,128866.82,46.521,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000729,Stackable Container 0069,CAT004,34.9,30.0,30.6,32038.2,8.998,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000730,Moving Carton 0070,CAT004,52.5,40.1,40.5,85262.62,13.886,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000731,Storage Bin 0071,CAT004,43.3,34.8,35.7,53794.19,11.294,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000732,Plastic Crate 0072,CAT004,39.4,31.1,32.2,39455.95,12.328,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000733,Wardrobe Box 0073,CAT004,54.2,41.7,40.7,91987.7,31.541,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000734,Stackable Container 0074,CAT004,60.8,45.1,41.3,113247.9,26.879,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000735,Moving Carton 0075,CAT004,45.6,37.5,39.2,67032.0,23.259,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000736,Storage Bin 0076,CAT004,42.1,34.6,36.1,52585.43,8.395,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000737,Plastic Crate 0077,CAT004,44.9,36.9,31.8,52686.56,9.381,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000738,Wardrobe Box 0078,CAT004,55.6,44.5,43.7,108122.54,17.451,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000739,Stackable Container 0079,CAT004,40.8,28.3,29.0,33484.56,10.719,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000740,Moving Carton 0080,CAT004,40.3,33.8,34.2,46585.19,9.244,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000741,Storage Bin 0081,CAT004,44.5,33.4,32.6,48453.38,7.983,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000742,Plastic Crate 0082,CAT004,33.7,26.3,27.6,24462.16,9.646,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000743,Wardrobe Box 0083,CAT004,44.4,33.9,37.1,55841.44,12.517,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000744,Stackable Container 0084,CAT004,42.6,32.9,32.8,45970.51,15.559,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000745,Moving Carton 0085,CAT004,49.6,37.3,38.4,71043.07,14.804,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000746,Storage Bin 0086,CAT004,40.9,30.4,31.3,38917.17,12.475,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000747,Plastic Crate 0087,CAT004,53.1,42.4,41.7,93885.05,22.398,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000748,Wardrobe Box 0088,CAT004,42.5,37.4,34.9,55473.55,19.369,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000749,Stackable Container 0089,CAT004,48.2,33.2,35.9,57448.62,17.433,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000750,Moving Carton 0090,CAT004,51.2,40.7,44.0,91688.96,35.286,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000751,Microwave Oven 0001,CAT005,61.9,51.3,55.5,176238.58,48.206,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000752,Air Fryer 0002,CAT005,50.5,41.0,39.8,82405.9,32.746,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000753,Vacuum Cleaner 0003,CAT005,70.9,57.8,62.2,254896.84,64.991,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000754,Coffee Machine 0004,CAT005,53.1,44.1,44.3,103737.75,21.622,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000755,Blender 0005,CAT005,61.1,51.9,55.9,177263.93,38.611,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000756,Microwave Oven 0006,CAT005,40.1,30.4,32.8,39984.51,12.395,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000757,Air Fryer 0007,CAT005,59.2,53.9,51.2,163373.06,77.003,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000758,Vacuum Cleaner 0008,CAT005,55.3,41.6,43.4,99840.83,39.177,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000759,Coffee Machine 0009,CAT005,67.1,57.5,58.5,225707.62,103.311,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000760,Blender 0010,CAT005,46.0,38.8,41.5,74069.2,22.93,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000761,Microwave Oven 0011,CAT005,53.3,49.5,45.3,119517.25,33.512,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000762,Air Fryer 0012,CAT005,45.3,36.3,39.5,64953.4,14.48,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000763,Vacuum Cleaner 0013,CAT005,43.0,30.9,32.7,43448.49,15.954,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000764,Coffee Machine 0014,CAT005,71.5,58.1,59.1,245510.27,84.251,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000765,Blender 0015,CAT005,48.5,41.1,39.7,79136.0,31.702,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000766,Microwave Oven 0016,CAT005,55.4,42.4,45.0,105703.2,26.59,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000767,Air Fryer 0017,CAT005,66.2,55.4,56.2,206112.38,63.087,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000768,Vacuum Cleaner 0018,CAT005,47.5,40.2,38.2,72942.9,25.406,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000769,Coffee Machine 0019,CAT005,51.8,43.4,43.4,97568.41,24.081,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000770,Blender 0020,CAT005,50.0,46.0,44.0,101200.0,38.987,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000771,Microwave Oven 0021,CAT005,64.0,50.7,52.7,171000.96,47.416,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000772,Air Fryer 0022,CAT005,57.4,48.7,45.9,128307.94,60.58,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000773,Vacuum Cleaner 0023,CAT005,59.9,43.0,49.2,126724.44,58.57,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000774,Coffee Machine 0024,CAT005,57.7,49.5,51.6,147377.34,42.881,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000775,Blender 0025,CAT005,69.2,58.4,60.1,242880.93,55.034,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000776,Microwave Oven 0026,CAT005,44.4,36.4,38.0,61414.08,26.849,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000777,Air Fryer 0027,CAT005,46.2,35.5,36.2,59371.62,18.438,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000778,Vacuum Cleaner 0028,CAT005,46.1,38.4,41.9,74173.06,24.015,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000779,Coffee Machine 0029,CAT005,60.6,53.9,46.7,152538.08,64.878,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000780,Blender 0030,CAT005,60.6,47.5,46.0,132411.0,41.332,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000781,Microwave Oven 0031,CAT005,55.6,45.6,44.4,112569.98,42.501,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000782,Air Fryer 0032,CAT005,41.8,35.0,32.9,48132.7,19.042,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000783,Vacuum Cleaner 0033,CAT005,40.8,32.4,34.6,45738.43,11.313,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000784,Coffee Machine 0034,CAT005,64.4,52.2,48.6,163377.65,68.9,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000785,Blender 0035,CAT005,73.4,56.2,55.4,228529.43,106.558,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000786,Microwave Oven 0036,CAT005,55.1,42.1,39.5,91628.54,41.012,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000787,Air Fryer 0037,CAT005,43.5,34.1,34.9,51768.92,23.221,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000788,Vacuum Cleaner 0038,CAT005,36.3,31.9,34.0,39370.98,13.59,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000789,Coffee Machine 0039,CAT005,65.6,53.8,59.9,211403.87,64.225,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000790,Blender 0040,CAT005,65.1,51.7,46.6,156840.22,62.617,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000791,Microwave Oven 0041,CAT005,45.0,41.3,36.5,67835.25,23.021,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000792,Air Fryer 0042,CAT005,56.1,51.9,49.4,143832.55,50.571,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000793,Vacuum Cleaner 0043,CAT005,57.5,43.2,45.8,113767.2,50.016,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000794,Coffee Machine 0044,CAT005,67.8,54.0,56.4,206491.68,44.62,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000795,Blender 0045,CAT005,60.2,48.5,54.0,157663.8,57.444,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000796,Microwave Oven 0046,CAT005,66.7,47.6,52.1,165413.33,39.383,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000797,Air Fryer 0047,CAT005,45.6,42.6,40.0,77702.4,29.655,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000798,Vacuum Cleaner 0048,CAT005,47.6,38.6,37.9,69635.94,20.488,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000799,Coffee Machine 0049,CAT005,41.1,31.1,33.0,42180.93,18.385,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000800,Blender 0050,CAT005,71.9,58.0,53.1,221437.62,77.964,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000801,Microwave Oven 0051,CAT005,61.3,48.3,52.5,155441.47,49.363,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000802,Air Fryer 0052,CAT005,56.3,44.7,42.6,107207.59,34.938,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000803,Vacuum Cleaner 0053,CAT005,46.8,35.2,38.1,62764.42,22.751,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000804,Coffee Machine 0054,CAT005,67.7,49.4,56.0,187285.28,60.756,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000805,Blender 0055,CAT005,57.5,50.6,47.9,139365.05,31.085,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000806,Microwave Oven 0056,CAT005,68.5,54.6,52.6,196729.26,77.341,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000807,Air Fryer 0057,CAT005,67.4,53.1,55.1,197199.59,41.199,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000808,Vacuum Cleaner 0058,CAT005,41.1,34.0,32.7,45694.98,11.394,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000809,Coffee Machine 0059,CAT005,41.1,33.0,34.5,46792.35,18.414,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000810,Blender 0060,CAT005,71.8,58.4,58.2,244039.58,115.817,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000811,Microwave Oven 0061,CAT005,61.0,47.7,47.9,139374.63,33.351,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000812,Air Fryer 0062,CAT005,53.2,38.4,42.8,87435.26,33.269,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000813,Vacuum Cleaner 0063,CAT005,62.0,52.0,49.0,157976.0,37.191,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000814,Coffee Machine 0064,CAT005,46.5,39.6,39.7,73103.58,16.201,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000815,Blender 0065,CAT005,61.4,47.5,49.4,144075.1,52.744,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000816,Microwave Oven 0066,CAT005,59.4,54.1,52.7,169353.56,60.147,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000817,Air Fryer 0067,CAT005,56.2,41.8,43.0,101013.88,43.597,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000818,Vacuum Cleaner 0068,CAT005,45.1,40.7,39.0,71587.23,24.946,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000819,Coffee Machine 0069,CAT005,44.1,39.0,35.9,61744.41,23.28,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000820,Blender 0070,CAT005,45.7,39.2,37.0,66283.28,21.429,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000821,Microwave Oven 0071,CAT005,58.7,48.3,42.1,119362.34,36.157,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000822,Air Fryer 0072,CAT005,62.7,47.3,51.6,153030.64,33.655,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000823,Vacuum Cleaner 0073,CAT005,73.1,59.4,63.0,273554.82,134.063,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000824,Coffee Machine 0074,CAT005,37.9,29.5,29.9,33429.69,12.101,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000825,Blender 0075,CAT005,47.9,43.2,42.7,88358.26,19.442,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000826,Microwave Oven 0076,CAT005,43.5,38.0,33.5,55375.5,11.755,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000827,Air Fryer 0077,CAT005,40.3,33.6,35.3,47799.02,20.927,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000828,Vacuum Cleaner 0078,CAT005,41.3,34.9,35.0,50447.95,19.06,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000829,Coffee Machine 0079,CAT005,44.8,34.9,34.1,53316.03,18.233,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000830,Blender 0080,CAT005,41.1,33.2,36.7,50077.88,20.78,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000831,Microwave Oven 0081,CAT005,66.1,53.5,47.7,168683.9,62.321,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000832,Air Fryer 0082,CAT005,62.7,55.7,50.5,176365.7,48.719,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000833,Vacuum Cleaner 0083,CAT005,56.3,45.4,45.2,115532.1,25.64,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000834,Coffee Machine 0084,CAT005,35.9,32.7,32.7,38387.51,15.695,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000835,Blender 0085,CAT005,57.7,53.3,46.7,143621.65,38.625,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000836,Microwave Oven 0086,CAT005,71.5,61.3,55.8,244568.61,104.854,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000837,Air Fryer 0087,CAT005,67.9,52.2,60.8,215498.3,73.409,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000838,Vacuum Cleaner 0088,CAT005,55.8,44.0,46.5,114166.8,30.963,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000839,Coffee Machine 0089,CAT005,65.2,52.5,54.3,185868.9,48.301,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000840,Blender 0090,CAT005,67.2,55.7,58.2,217844.93,73.308,standard,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000841,Wrench Set 0001,CAT006,13.3,9.5,7.8,985.53,2.939,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000842,Drill Bit Kit 0002,CAT006,26.3,18.2,15.0,7179.9,20.283,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000843,Steel Brackets 0003,CAT006,20.2,14.6,11.0,3244.12,6.19,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000844,Hammer 0004,CAT006,11.0,8.1,6.9,614.79,1.216,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000845,Screwdriver Set 0005,CAT006,24.8,16.3,13.1,5295.54,14.319,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000846,Wrench Set 0006,CAT006,17.1,10.3,9.5,1673.24,3.473,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000847,Drill Bit Kit 0007,CAT006,12.1,7.5,6.6,598.95,1.202,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000848,Steel Brackets 0008,CAT006,18.8,12.0,10.7,2413.92,6.681,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000849,Hammer 0009,CAT006,18.3,12.5,10.7,2447.62,4.976,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000850,Screwdriver Set 0010,CAT006,24.1,15.5,13.3,4968.22,9.334,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000851,Wrench Set 0011,CAT006,24.9,15.1,12.5,4699.87,13.292,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000852,Drill Bit Kit 0012,CAT006,17.3,12.2,10.3,2173.92,5.582,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000853,Steel Brackets 0013,CAT006,16.2,10.7,8.5,1473.39,2.436,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000854,Hammer 0014,CAT006,16.7,12.0,10.3,2064.12,4.143,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000855,Screwdriver Set 0015,CAT006,22.5,13.7,11.0,3390.75,6.776,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000856,Wrench Set 0016,CAT006,12.7,7.8,6.3,624.08,1.486,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000857,Drill Bit Kit 0017,CAT006,25.3,18.2,13.9,6400.39,12.518,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000858,Steel Brackets 0018,CAT006,19.2,12.6,11.1,2685.31,5.577,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000859,Hammer 0019,CAT006,13.0,8.6,7.4,827.32,1.456,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000860,Screwdriver Set 0020,CAT006,24.1,17.6,14.4,6107.9,17.164,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000861,Wrench Set 0021,CAT006,23.5,14.1,12.3,4075.61,10.232,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000862,Drill Bit Kit 0022,CAT006,17.0,11.1,8.7,1641.69,2.907,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000863,Steel Brackets 0023,CAT006,20.5,13.4,12.4,3406.28,8.082,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000864,Hammer 0024,CAT006,18.2,12.5,9.4,2138.5,5.118,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000865,Screwdriver Set 0025,CAT006,11.6,7.2,5.7,476.06,0.953,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000866,Wrench Set 0026,CAT006,15.8,9.9,9.2,1439.06,2.171,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000867,Drill Bit Kit 0027,CAT006,20.9,15.7,11.4,3740.68,10.318,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000868,Steel Brackets 0028,CAT006,19.0,12.6,9.4,2250.36,5.984,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000869,Hammer 0029,CAT006,25.2,18.7,14.3,6738.73,13.16,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000870,Screwdriver Set 0030,CAT006,21.2,12.8,11.2,3039.23,6.164,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000871,Wrench Set 0031,CAT006,25.7,16.1,15.1,6247.93,15.334,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000872,Drill Bit Kit 0032,CAT006,13.9,9.0,8.1,1013.31,1.773,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000873,Steel Brackets 0033,CAT006,17.9,10.7,8.7,1666.31,2.784,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000874,Hammer 0034,CAT006,15.6,11.9,9.8,1819.27,2.743,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000875,Screwdriver Set 0035,CAT006,23.8,16.0,11.9,4531.52,12.384,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000876,Wrench Set 0036,CAT006,20.6,13.7,10.1,2850.42,7.42,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000877,Drill Bit Kit 0037,CAT006,23.0,16.4,14.1,5318.52,13.019,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000878,Steel Brackets 0038,CAT006,12.3,8.7,7.0,749.07,1.154,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000879,Hammer 0039,CAT006,22.1,13.7,11.5,3481.85,6.116,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000880,Screwdriver Set 0040,CAT006,15.5,10.5,8.4,1367.1,4.054,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000881,Wrench Set 0041,CAT006,23.9,16.9,12.4,5008.48,11.842,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000882,Drill Bit Kit 0042,CAT006,26.9,16.5,13.6,6036.36,12.913,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000883,Steel Brackets 0043,CAT006,26.5,18.9,15.9,7963.51,19.145,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000884,Hammer 0044,CAT006,22.0,15.7,12.6,4352.04,9.069,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000885,Screwdriver Set 0045,CAT006,18.5,11.1,9.3,1909.76,5.033,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000886,Wrench Set 0046,CAT006,25.4,16.5,13.8,5783.58,10.764,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000887,Drill Bit Kit 0047,CAT006,12.0,7.9,7.1,673.08,1.812,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000888,Steel Brackets 0048,CAT006,26.5,17.1,15.5,7023.83,11.985,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000889,Hammer 0049,CAT006,13.2,10.1,8.3,1106.56,2.368,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000890,Screwdriver Set 0050,CAT006,20.5,15.0,11.4,3505.5,6.256,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000891,Wrench Set 0051,CAT006,15.0,9.9,9.1,1351.35,3.322,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000892,Drill Bit Kit 0052,CAT006,11.9,7.7,6.1,558.94,0.994,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000893,Steel Brackets 0053,CAT006,13.6,8.5,7.7,890.12,2.638,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000894,Hammer 0054,CAT006,18.7,13.1,11.9,2915.14,7.218,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000895,Screwdriver Set 0055,CAT006,23.7,16.3,12.9,4983.4,7.552,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000896,Wrench Set 0056,CAT006,18.9,12.9,10.5,2560.01,5.35,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000897,Drill Bit Kit 0057,CAT006,12.9,9.9,7.7,983.37,2.761,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000898,Steel Brackets 0058,CAT006,24.2,14.9,12.4,4471.19,8.639,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000899,Hammer 0059,CAT006,21.3,14.6,11.3,3514.07,7.662,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000900,Screwdriver Set 0060,CAT006,15.9,11.0,8.8,1539.12,3.908,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000901,Wrench Set 0061,CAT006,19.4,12.6,11.8,2884.39,7.927,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000902,Drill Bit Kit 0062,CAT006,26.3,16.5,15.6,6769.62,11.066,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000903,Steel Brackets 0063,CAT006,15.1,9.8,8.4,1243.03,2.499,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000904,Hammer 0064,CAT006,21.1,15.0,12.4,3924.6,8.857,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000905,Screwdriver Set 0065,CAT006,11.0,7.5,6.4,528.0,0.86,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000906,Wrench Set 0066,CAT006,25.0,17.4,14.3,6220.5,15.386,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000907,Drill Bit Kit 0067,CAT006,23.0,13.8,11.6,3681.84,10.815,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000908,Steel Brackets 0068,CAT006,14.0,8.1,7.3,827.82,1.533,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000909,Hammer 0069,CAT006,17.3,11.3,9.9,1935.35,3.839,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000910,Screwdriver Set 0070,CAT006,13.1,8.9,7.2,839.45,2.162,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000911,Wrench Set 0071,CAT006,15.6,9.0,7.8,1095.12,1.751,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000912,Drill Bit Kit 0072,CAT006,19.5,12.2,11.0,2616.9,5.548,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000913,Steel Brackets 0073,CAT006,21.5,13.0,12.1,3381.95,8.88,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000914,Hammer 0074,CAT006,18.3,12.1,9.8,2170.01,4.917,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000915,Screwdriver Set 0075,CAT006,16.4,10.6,8.9,1547.18,4.229,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000916,Wrench Set 0076,CAT006,17.4,12.7,9.7,2143.51,5.255,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000917,Drill Bit Kit 0077,CAT006,24.4,18.2,13.4,5950.67,15.885,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000918,Steel Brackets 0078,CAT006,25.1,17.6,13.7,6052.11,15.553,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000919,Hammer 0079,CAT006,11.9,7.3,6.6,573.34,1.561,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000920,Screwdriver Set 0080,CAT006,16.6,12.5,9.9,2054.25,3.962,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000921,Wrench Set 0081,CAT006,22.2,14.4,12.1,3868.13,11.196,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000922,Drill Bit Kit 0082,CAT006,27.3,16.1,14.9,6549.0,18.111,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000923,Steel Brackets 0083,CAT006,14.6,10.4,7.7,1169.17,2.734,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000924,Hammer 0084,CAT006,17.6,10.8,9.7,1843.78,4.3,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000925,Screwdriver Set 0085,CAT006,18.0,12.9,9.9,2298.78,6.535,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000926,Wrench Set 0086,CAT006,24.9,15.1,12.4,4662.28,9.113,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000927,Drill Bit Kit 0087,CAT006,23.0,15.5,13.5,4812.75,13.277,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000928,Steel Brackets 0088,CAT006,15.5,11.5,8.6,1532.95,2.896,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000929,Hammer 0089,CAT006,12.6,7.9,6.2,617.15,1.037,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000930,Screwdriver Set 0090,CAT006,14.9,9.8,8.1,1182.76,2.343,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000931,Detergent Pack 0001,CAT007,29.0,22.1,21.3,13651.17,13.993,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000932,Rice Bag 0002,CAT007,23.6,17.8,18.2,7645.46,8.448,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000933,Flour Sack 0003,CAT007,16.5,13.1,10.7,2312.8,2.602,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000934,Canned Goods Case 0004,CAT007,18.8,17.2,14.2,4591.71,4.637,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000935,Bottled Water Pack 0005,CAT007,29.6,22.6,20.5,13713.68,16.047,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000936,Detergent Pack 0006,CAT007,29.1,24.5,22.2,15827.49,15.099,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000937,Rice Bag 0007,CAT007,18.1,15.9,13.3,3827.61,3.311,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000938,Flour Sack 0008,CAT007,20.2,15.7,13.0,4122.82,4.118,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000939,Canned Goods Case 0009,CAT007,25.7,20.0,19.9,10228.6,7.983,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000940,Bottled Water Pack 0010,CAT007,31.1,25.0,23.5,18271.25,21.166,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000941,Detergent Pack 0011,CAT007,30.0,22.1,20.3,13458.9,12.112,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000942,Rice Bag 0012,CAT007,23.6,20.0,17.3,8165.6,7.708,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000943,Flour Sack 0013,CAT007,25.7,20.8,18.6,9942.82,8.606,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000944,Canned Goods Case 0014,CAT007,22.7,19.8,17.4,7820.6,7.437,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000945,Bottled Water Pack 0015,CAT007,33.4,25.7,22.1,18970.2,14.298,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000946,Detergent Pack 0016,CAT007,18.5,14.9,13.2,3638.58,3.693,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000947,Rice Bag 0017,CAT007,28.6,25.5,22.8,16628.04,16.988,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000948,Flour Sack 0018,CAT007,36.1,29.3,26.5,28029.85,28.928,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000949,Canned Goods Case 0019,CAT007,33.5,23.5,22.8,17949.3,13.501,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000950,Bottled Water Pack 0020,CAT007,23.6,19.8,17.1,7990.49,6.798,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000951,Detergent Pack 0021,CAT007,28.9,22.4,19.0,12299.84,12.764,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000952,Rice Bag 0022,CAT007,32.3,27.4,22.9,20266.96,18.537,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000953,Flour Sack 0023,CAT007,14.6,12.1,10.6,1872.6,1.533,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000954,Canned Goods Case 0024,CAT007,34.1,27.7,24.6,23236.42,24.146,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000955,Bottled Water Pack 0025,CAT007,26.8,21.3,19.3,11017.21,12.545,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000956,Detergent Pack 0026,CAT007,17.2,13.9,12.4,2964.59,3.173,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000957,Rice Bag 0027,CAT007,33.5,26.4,23.4,20694.96,21.684,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000958,Flour Sack 0028,CAT007,16.0,14.0,12.6,2822.4,2.92,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000959,Canned Goods Case 0029,CAT007,18.4,16.3,15.4,4618.77,5.502,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000960,Bottled Water Pack 0030,CAT007,31.4,24.6,22.9,17688.88,20.859,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000961,Detergent Pack 0031,CAT007,28.1,23.1,19.4,12592.73,13.032,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000962,Rice Bag 0032,CAT007,30.8,24.7,22.1,16812.8,16.243,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000963,Flour Sack 0033,CAT007,26.4,23.7,20.3,12701.3,11.004,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000964,Canned Goods Case 0034,CAT007,16.0,14.4,11.9,2741.76,2.391,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000965,Bottled Water Pack 0035,CAT007,22.7,18.0,16.8,6864.48,7.668,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000966,Detergent Pack 0036,CAT007,32.0,25.8,24.3,20062.08,16.054,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000967,Rice Bag 0037,CAT007,36.6,26.9,24.9,24515.05,17.444,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000968,Flour Sack 0038,CAT007,30.4,25.0,19.6,14896.0,10.907,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000969,Canned Goods Case 0039,CAT007,30.6,22.8,21.5,15000.12,15.333,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000970,Bottled Water Pack 0040,CAT007,31.7,23.5,22.9,17059.35,16.783,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000971,Detergent Pack 0041,CAT007,32.7,25.3,23.1,19110.86,21.788,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000972,Rice Bag 0042,CAT007,32.0,25.5,24.9,20318.4,19.805,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000973,Flour Sack 0043,CAT007,26.9,20.5,18.3,10091.53,10.993,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000974,Canned Goods Case 0044,CAT007,34.3,27.2,22.4,20898.3,16.558,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000975,Bottled Water Pack 0045,CAT007,35.3,29.3,23.7,24512.67,19.526,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000976,Detergent Pack 0046,CAT007,30.6,26.7,23.3,19036.57,13.745,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000977,Rice Bag 0047,CAT007,33.4,27.2,24.4,22166.91,20.492,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000978,Flour Sack 0048,CAT007,24.4,19.5,19.3,9182.94,9.485,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000979,Canned Goods Case 0049,CAT007,28.2,21.3,21.3,12794.06,15.167,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000980,Bottled Water Pack 0050,CAT007,23.8,18.2,16.1,6973.88,5.254,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000981,Detergent Pack 0051,CAT007,28.0,21.9,21.1,12938.52,9.542,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000982,Rice Bag 0052,CAT007,15.7,12.8,12.3,2471.81,2.173,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000983,Flour Sack 0053,CAT007,25.5,21.5,19.5,10690.88,9.169,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000984,Canned Goods Case 0054,CAT007,29.4,24.8,22.4,16332.29,12.633,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000985,Bottled Water Pack 0055,CAT007,15.3,12.6,10.6,2043.47,2.103,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000986,Detergent Pack 0056,CAT007,33.5,28.0,24.6,23074.8,18.784,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000987,Rice Bag 0057,CAT007,33.9,26.0,24.4,21506.16,19.459,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000988,Flour Sack 0058,CAT007,17.4,13.5,12.2,2865.78,2.314,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000989,Canned Goods Case 0059,CAT007,18.4,15.8,13.4,3895.65,3.695,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000990,Bottled Water Pack 0060,CAT007,14.4,12.2,10.9,1914.91,2.212,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000991,Detergent Pack 0061,CAT007,21.0,15.8,14.6,4844.28,4.089,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000992,Rice Bag 0062,CAT007,14.8,11.8,11.6,2025.82,1.538,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000993,Flour Sack 0063,CAT007,27.6,22.8,21.5,13529.52,12.849,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000994,Canned Goods Case 0064,CAT007,15.4,13.1,11.8,2380.53,2.816,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000995,Bottled Water Pack 0065,CAT007,35.0,25.5,26.4,23562.0,20.249,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000996,Detergent Pack 0066,CAT007,32.1,26.8,25.8,22195.22,24.408,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000997,Rice Bag 0067,CAT007,29.7,23.8,20.9,14773.37,13.995,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000998,Flour Sack 0068,CAT007,15.2,13.9,12.8,2704.38,2.146,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU000999,Canned Goods Case 0069,CAT007,23.1,19.6,15.2,6881.95,7.35,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001000,Bottled Water Pack 0070,CAT007,34.8,26.1,22.5,20436.3,14.345,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001001,Detergent Pack 0071,CAT007,28.5,21.6,19.3,11881.08,9.715,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001002,Rice Bag 0072,CAT007,32.2,22.2,19.8,14153.83,13.271,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001003,Flour Sack 0073,CAT007,32.5,26.2,22.0,18733.0,15.772,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001004,Canned Goods Case 0074,CAT007,28.7,22.9,22.3,14656.23,12.384,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001005,Bottled Water Pack 0075,CAT007,24.1,17.9,16.6,7161.07,7.053,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001006,Detergent Pack 0076,CAT007,32.2,24.4,24.4,19170.59,18.317,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001007,Rice Bag 0077,CAT007,27.0,20.3,19.6,10742.76,12.583,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001008,Flour Sack 0078,CAT007,31.3,22.7,20.7,14707.56,11.98,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001009,Canned Goods Case 0079,CAT007,27.8,23.3,20.9,13537.77,12.893,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001010,Bottled Water Pack 0080,CAT007,22.5,17.5,15.2,5985.0,6.478,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001011,Detergent Pack 0081,CAT007,34.0,28.0,25.1,23895.2,26.951,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001012,Rice Bag 0082,CAT007,30.0,22.5,20.8,14040.0,11.368,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001013,Flour Sack 0083,CAT007,19.8,17.4,14.0,4823.28,4.68,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001014,Canned Goods Case 0084,CAT007,23.3,16.5,14.6,5612.97,5.337,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001015,Bottled Water Pack 0085,CAT007,26.2,19.9,20.3,10584.01,8.65,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001016,Detergent Pack 0086,CAT007,30.9,24.8,25.5,19541.16,17.494,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001017,Rice Bag 0087,CAT007,29.9,27.7,24.3,20125.99,15.777,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001018,Flour Sack 0088,CAT007,27.3,20.7,18.5,10454.53,7.891,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001019,Canned Goods Case 0089,CAT007,15.0,13.0,11.9,2320.5,2.218,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001020,Bottled Water Pack 0090,CAT007,19.3,16.2,15.3,4783.7,4.02,heavy,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001021,Wine Glasses 0001,CAT008,12.1,12.2,7.5,1107.15,1.149,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001022,Glass Vase 0002,CAT008,20.0,19.4,14.0,5432.0,7.164,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001023,Ceramic Plates 0003,CAT008,16.5,16.4,12.1,3274.26,2.066,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001024,Drinking Glass Set 0004,CAT008,11.6,11.7,7.9,1072.19,0.878,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001025,Glass Jar 0005,CAT008,10.3,10.2,6.9,724.91,0.795,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001026,Wine Glasses 0006,CAT008,16.9,16.1,10.6,2884.15,3.013,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001027,Glass Vase 0007,CAT008,13.9,14.3,9.8,1947.95,1.942,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001028,Ceramic Plates 0008,CAT008,11.6,12.0,7.6,1057.92,1.025,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001029,Drinking Glass Set 0009,CAT008,11.4,11.1,6.7,847.82,0.863,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001030,Glass Jar 0010,CAT008,17.8,18.8,12.6,4216.46,3.255,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001031,Wine Glasses 0011,CAT008,14.2,15.2,10.1,2179.98,1.981,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001032,Glass Vase 0012,CAT008,20.9,20.6,14.2,6113.67,7.269,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001033,Ceramic Plates 0013,CAT008,9.5,10.0,6.3,598.5,0.592,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001034,Drinking Glass Set 0014,CAT008,15.2,15.5,9.4,2214.64,2.752,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001035,Glass Jar 0015,CAT008,9.5,10.1,6.4,614.08,0.44,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001036,Wine Glasses 0016,CAT008,18.1,19.2,13.4,4656.77,4.956,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001037,Glass Vase 0017,CAT008,10.7,11.2,7.2,862.85,1.263,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001038,Ceramic Plates 0018,CAT008,11.6,12.1,8.1,1136.92,1.507,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001039,Drinking Glass Set 0019,CAT008,18.2,18.8,13.0,4448.08,4.516,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001040,Glass Jar 0020,CAT008,18.6,16.7,11.1,3447.88,2.238,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001041,Wine Glasses 0021,CAT008,18.8,20.8,13.9,5435.46,5.532,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001042,Glass Vase 0022,CAT008,13.4,12.3,7.8,1285.6,1.254,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001043,Ceramic Plates 0023,CAT008,14.3,16.0,9.5,2173.6,2.722,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001044,Drinking Glass Set 0024,CAT008,15.1,14.6,9.4,2072.32,2.657,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001045,Glass Jar 0025,CAT008,12.6,13.2,8.9,1480.25,1.616,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001046,Wine Glasses 0026,CAT008,21.2,19.6,13.1,5443.31,4.272,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001047,Glass Vase 0027,CAT008,18.4,19.1,11.7,4111.85,4.639,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001048,Ceramic Plates 0028,CAT008,21.6,22.1,14.2,6778.51,9.146,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001049,Drinking Glass Set 0029,CAT008,16.8,15.2,11.2,2860.03,4.242,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001050,Glass Jar 0030,CAT008,10.9,11.8,8.4,1080.41,1.272,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001051,Wine Glasses 0031,CAT008,14.4,14.5,9.6,2004.48,2.855,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001052,Glass Vase 0032,CAT008,10.2,9.7,7.1,702.47,0.719,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001053,Ceramic Plates 0033,CAT008,14.6,16.2,10.8,2554.42,3.707,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001054,Drinking Glass Set 0034,CAT008,15.1,13.7,9.7,2006.64,2.94,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001055,Glass Jar 0035,CAT008,17.1,16.8,12.0,3447.36,2.841,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001056,Wine Glasses 0036,CAT008,16.2,16.2,11.0,2886.84,2.574,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001057,Glass Vase 0037,CAT008,13.8,14.0,10.6,2047.92,1.684,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001058,Ceramic Plates 0038,CAT008,18.0,17.1,11.0,3385.8,3.55,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001059,Drinking Glass Set 0039,CAT008,20.0,18.2,13.7,4986.8,6.38,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001060,Glass Jar 0040,CAT008,11.7,11.7,7.2,985.61,1.41,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001061,Wine Glasses 0041,CAT008,20.6,20.5,13.9,5869.97,8.19,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001062,Glass Vase 0042,CAT008,12.5,13.0,8.2,1332.5,1.143,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001063,Ceramic Plates 0043,CAT008,17.3,16.2,10.9,3054.83,4.205,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001064,Drinking Glass Set 0044,CAT008,17.5,17.9,11.4,3571.05,2.194,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001065,Glass Jar 0045,CAT008,18.4,17.9,11.1,3655.9,4.204,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001066,Wine Glasses 0046,CAT008,9.8,11.0,7.4,797.72,0.974,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001067,Glass Vase 0047,CAT008,19.6,19.0,12.0,4468.8,3.156,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001068,Ceramic Plates 0048,CAT008,14.0,15.5,9.9,2148.3,3.004,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001069,Drinking Glass Set 0049,CAT008,12.4,11.9,7.7,1136.21,0.69,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001070,Glass Jar 0050,CAT008,12.8,12.8,7.8,1277.95,0.821,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001071,Wine Glasses 0051,CAT008,21.8,19.9,14.6,6333.77,6.461,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001072,Glass Vase 0052,CAT008,14.7,14.1,8.8,1823.98,1.89,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001073,Ceramic Plates 0053,CAT008,16.9,19.4,12.2,3999.89,4.085,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001074,Drinking Glass Set 0054,CAT008,19.0,18.6,11.8,4170.12,3.746,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001075,Glass Jar 0055,CAT008,22.3,22.3,13.7,6812.87,4.945,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001076,Wine Glasses 0056,CAT008,17.0,15.9,11.0,2973.3,3.129,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001077,Glass Vase 0057,CAT008,14.3,14.5,9.5,1969.83,2.511,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001078,Ceramic Plates 0058,CAT008,13.7,12.2,8.5,1420.69,1.599,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001079,Drinking Glass Set 0059,CAT008,13.0,12.5,7.8,1267.5,1.1,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001080,Glass Jar 0060,CAT008,16.0,15.8,9.7,2452.16,2.616,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001081,Wireless Headphones 0001,CAT009,29.3,10.7,20.9,6552.36,7.784,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001082,Smart Watch 0002,CAT009,17.6,7.4,12.9,1680.1,0.873,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001083,Tablet 0003,CAT009,23.3,8.4,15.7,3072.8,2.436,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001084,Camera Lens 0004,CAT009,24.0,9.9,18.0,4276.8,4.313,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001085,Portable Speaker 0005,CAT009,25.8,11.0,18.7,5307.06,6.141,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001086,Wireless Headphones 0006,CAT009,17.5,6.7,13.1,1535.97,1.488,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001087,Smart Watch 0007,CAT009,23.6,9.8,17.6,4070.53,4.84,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001088,Tablet 0008,CAT009,21.3,9.5,18.0,3642.3,3.086,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001089,Camera Lens 0009,CAT009,23.0,9.5,18.3,3998.55,2.125,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001090,Portable Speaker 0010,CAT009,23.0,9.7,17.4,3881.94,4.568,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001091,Wireless Headphones 0011,CAT009,12.4,5.3,9.0,591.48,0.343,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001092,Smart Watch 0012,CAT009,19.9,9.1,15.0,2716.35,2.841,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001093,Tablet 0013,CAT009,22.8,9.5,17.0,3682.2,4.046,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001094,Camera Lens 0014,CAT009,13.7,5.9,11.0,889.13,0.793,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001095,Portable Speaker 0015,CAT009,16.8,6.3,11.7,1238.33,0.756,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001096,Wireless Headphones 0016,CAT009,25.7,10.1,21.6,5606.71,4.554,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001097,Smart Watch 0017,CAT009,24.8,9.8,19.0,4617.76,3.087,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001098,Tablet 0018,CAT009,25.1,9.9,20.1,4994.65,5.399,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001099,Camera Lens 0019,CAT009,15.4,6.6,12.2,1240.01,0.841,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001100,Portable Speaker 0020,CAT009,22.7,8.2,15.1,2810.71,1.927,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001101,Wireless Headphones 0021,CAT009,19.5,8.5,14.7,2436.53,2.12,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001102,Smart Watch 0022,CAT009,18.4,6.7,13.0,1602.64,1.586,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001103,Tablet 0023,CAT009,19.6,7.5,15.3,2249.1,1.392,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001104,Camera Lens 0024,CAT009,27.6,9.8,20.8,5625.98,2.567,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001105,Portable Speaker 0025,CAT009,22.4,9.5,16.6,3532.48,4.153,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001106,Wireless Headphones 0026,CAT009,12.2,5.4,8.9,586.33,0.558,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001107,Smart Watch 0027,CAT009,25.0,9.8,18.6,4557.0,5.071,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001108,Tablet 0028,CAT009,21.9,9.0,17.3,3409.83,2.312,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001109,Camera Lens 0029,CAT009,13.2,4.8,10.1,639.94,0.304,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001110,Portable Speaker 0030,CAT009,21.4,8.8,17.0,3201.44,3.254,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001111,Wireless Headphones 0031,CAT009,23.5,9.7,18.9,4308.25,1.837,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001112,Smart Watch 0032,CAT009,20.6,8.1,14.3,2386.1,2.751,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001113,Tablet 0033,CAT009,14.2,5.2,9.4,694.1,0.797,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001114,Camera Lens 0034,CAT009,25.4,10.6,20.1,5411.72,5.258,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001115,Portable Speaker 0035,CAT009,19.3,8.3,14.3,2290.72,2.234,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001116,Wireless Headphones 0036,CAT009,25.5,8.9,19.3,4380.14,4.325,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001117,Smart Watch 0037,CAT009,26.9,9.7,21.1,5505.62,4.826,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001118,Tablet 0038,CAT009,19.4,7.7,14.1,2106.26,1.895,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001119,Camera Lens 0039,CAT009,29.4,10.6,20.7,6450.95,4.341,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001120,Portable Speaker 0040,CAT009,17.6,7.1,12.1,1512.02,1.273,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001121,Wireless Headphones 0041,CAT009,24.8,10.8,20.3,5437.15,6.104,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001122,Smart Watch 0042,CAT009,13.0,5.1,9.7,643.11,0.645,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001123,Tablet 0043,CAT009,13.7,5.4,9.5,702.81,0.826,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001124,Camera Lens 0044,CAT009,14.1,5.5,11.1,860.8,0.518,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001125,Portable Speaker 0045,CAT009,15.6,6.2,11.6,1121.95,0.641,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001126,Wireless Headphones 0046,CAT009,24.1,10.1,19.1,4649.13,2.523,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001127,Smart Watch 0047,CAT009,17.3,6.3,13.1,1427.77,1.589,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001128,Tablet 0048,CAT009,13.7,6.0,10.7,879.54,0.419,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001129,Camera Lens 0049,CAT009,12.6,5.4,9.4,639.58,0.586,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001130,Portable Speaker 0050,CAT009,18.3,7.4,14.7,1990.67,0.992,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001131,Wireless Headphones 0051,CAT009,20.1,8.0,16.1,2588.88,2.724,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001132,Smart Watch 0052,CAT009,18.1,7.0,12.7,1609.09,1.137,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001133,Tablet 0053,CAT009,27.6,11.4,20.2,6355.73,3.473,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001134,Camera Lens 0054,CAT009,14.5,5.5,10.2,813.45,0.338,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001135,Portable Speaker 0055,CAT009,27.4,9.6,19.1,5024.06,2.018,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001136,Wireless Headphones 0056,CAT009,13.8,5.4,10.5,782.46,0.801,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001137,Smart Watch 0057,CAT009,22.7,8.5,17.5,3376.62,1.686,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001138,Tablet 0058,CAT009,22.5,9.6,16.6,3585.6,2.79,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001139,Camera Lens 0059,CAT009,24.8,10.1,19.3,4834.26,2.543,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001140,Portable Speaker 0060,CAT009,25.1,9.4,17.3,4081.76,2.091,fragile,NONE,synthetic,valid,synthetic_class_rule,low
+SKU001141,Solvent Cleaner 0001,CAT010,24.3,17.6,17.0,7270.56,8.408,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001142,Bleach Bottle 0002,CAT010,18.4,12.0,10.9,2406.72,3.243,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001143,Aerosol Spray 0003,CAT010,13.7,10.6,8.8,1277.94,1.955,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001144,Battery Pack 0004,CAT010,22.8,17.1,15.6,6082.13,6.49,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001145,Adhesive Can 0005,CAT010,17.6,12.5,10.5,2310.0,3.641,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001146,Solvent Cleaner 0006,CAT010,25.8,17.8,16.4,7531.54,10.655,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001147,Bleach Bottle 0007,CAT010,18.7,12.0,11.0,2468.4,3.011,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001148,Aerosol Spray 0008,CAT010,23.1,16.2,13.9,5201.66,8.799,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001149,Battery Pack 0009,CAT010,13.3,9.3,8.3,1026.63,1.004,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001150,Adhesive Can 0010,CAT010,25.4,19.4,15.0,7391.4,8.446,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001151,Solvent Cleaner 0011,CAT010,23.4,17.3,14.8,5991.34,7.829,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001152,Bleach Bottle 0012,CAT010,28.0,19.8,18.0,9979.2,11.238,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001153,Aerosol Spray 0013,CAT010,12.5,10.1,9.0,1136.25,1.287,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001154,Battery Pack 0014,CAT010,30.0,20.1,16.8,10130.4,14.112,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001155,Adhesive Can 0015,CAT010,13.3,9.6,9.0,1149.12,1.658,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001156,Solvent Cleaner 0016,CAT010,26.4,18.9,16.2,8083.15,10.0,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001157,Bleach Bottle 0017,CAT010,14.9,10.6,9.9,1563.61,1.656,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001158,Aerosol Spray 0018,CAT010,24.7,16.9,14.8,6177.96,6.557,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001159,Battery Pack 0019,CAT010,23.6,18.7,15.0,6619.8,9.103,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001160,Adhesive Can 0020,CAT010,14.8,11.1,10.0,1642.8,2.782,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001161,Solvent Cleaner 0021,CAT010,27.5,18.8,16.4,8478.8,12.935,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001162,Bleach Bottle 0022,CAT010,14.7,11.1,10.0,1631.7,2.747,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001163,Aerosol Spray 0023,CAT010,15.1,11.8,10.1,1799.62,2.728,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001164,Battery Pack 0024,CAT010,15.8,11.7,10.1,1867.09,3.159,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001165,Adhesive Can 0025,CAT010,26.2,21.6,19.5,11035.44,17.921,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001166,Solvent Cleaner 0026,CAT010,25.4,16.6,14.8,6240.27,6.908,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001167,Bleach Bottle 0027,CAT010,19.8,14.6,12.7,3671.32,5.5,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001168,Aerosol Spray 0028,CAT010,26.7,19.7,17.4,9152.23,12.664,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001169,Battery Pack 0029,CAT010,19.4,12.6,11.1,2713.28,4.13,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001170,Adhesive Can 0030,CAT010,18.3,13.5,10.6,2618.73,3.59,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001171,Solvent Cleaner 0031,CAT010,26.6,19.3,15.4,7906.05,7.341,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001172,Bleach Bottle 0032,CAT010,17.3,12.3,9.8,2085.34,2.153,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001173,Aerosol Spray 0033,CAT010,22.0,15.9,14.3,5002.14,6.482,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001174,Battery Pack 0034,CAT010,24.4,18.5,17.2,7764.08,12.873,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001175,Adhesive Can 0035,CAT010,26.6,19.3,16.0,8214.08,14.498,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001176,Solvent Cleaner 0036,CAT010,24.2,17.0,15.1,6212.14,7.59,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001177,Bleach Bottle 0037,CAT010,23.6,18.1,16.1,6877.28,10.429,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001178,Aerosol Spray 0038,CAT010,29.4,20.2,17.5,10392.9,17.338,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001179,Battery Pack 0039,CAT010,15.0,10.5,8.6,1354.5,1.352,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001180,Adhesive Can 0040,CAT010,26.0,18.2,15.7,7429.24,10.54,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001181,Solvent Cleaner 0041,CAT010,22.4,15.1,13.2,4464.77,6.671,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001182,Bleach Bottle 0042,CAT010,19.6,13.0,11.7,2981.16,3.228,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001183,Aerosol Spray 0043,CAT010,21.2,13.9,13.6,4007.65,6.793,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001184,Battery Pack 0044,CAT010,27.1,20.0,18.7,10135.4,17.314,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001185,Adhesive Can 0045,CAT010,14.6,11.3,8.6,1418.83,1.948,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001186,Solvent Cleaner 0046,CAT010,26.2,19.3,16.9,8545.65,10.521,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001187,Bleach Bottle 0047,CAT010,25.5,19.8,16.1,8128.89,12.646,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001188,Aerosol Spray 0048,CAT010,18.1,13.1,13.1,3106.14,4.429,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001189,Battery Pack 0049,CAT010,16.1,12.5,11.8,2374.75,2.8,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001190,Adhesive Can 0050,CAT010,19.2,14.0,12.8,3440.64,3.15,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001191,Solvent Cleaner 0051,CAT010,28.2,20.2,15.6,8886.38,13.996,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001192,Bleach Bottle 0052,CAT010,17.4,11.6,11.5,2321.16,4.123,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001193,Aerosol Spray 0053,CAT010,23.5,16.2,15.6,5938.92,7.604,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001194,Battery Pack 0054,CAT010,20.3,15.5,12.7,3996.06,4.238,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001195,Adhesive Can 0055,CAT010,20.2,14.5,11.6,3397.64,3.724,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001196,Solvent Cleaner 0056,CAT010,15.5,11.2,10.3,1788.08,2.24,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001197,Bleach Bottle 0057,CAT010,22.8,17.4,14.9,5911.13,6.582,standard,toxic,synthetic,valid,synthetic_class_rule,low
+SKU001198,Aerosol Spray 0058,CAT010,19.8,15.2,13.8,4153.25,5.563,standard,flammable,synthetic,valid,synthetic_class_rule,low
+SKU001199,Battery Pack 0059,CAT010,23.5,17.9,14.4,6057.36,8.831,standard,corrosive,synthetic,valid,synthetic_class_rule,low
+SKU001200,Adhesive Can 0060,CAT010,16.5,11.4,10.6,1993.86,1.985,standard,toxic,synthetic,valid,synthetic_class_rule,low

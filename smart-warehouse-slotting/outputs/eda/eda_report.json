@@ -1,0 +1,91 @@
+{
+  "abc_counts": {
+    "C": 463,
+    "B": 444,
+    "A": 293
+  },
+  "abc_cumulative_share_by_class": {
+    "A": 0.79965,
+    "B": 0.9499,
+    "C": 1.0
+  },
+  "affinity_top10_lift": [
+    {
+      "sku_a": "SKU000695",
+      "sku_b": "SKU000734",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 200.33333333333334
+    },
+    {
+      "sku_a": "SKU001029",
+      "sku_b": "SKU001040",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 189.78947368421052
+    },
+    {
+      "sku_a": "SKU000990",
+      "sku_b": "SKU001011",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 167.46130030959753
+    },
+    {
+      "sku_a": "SKU000332",
+      "sku_b": "SKU000346",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 166.94444444444446
+    },
+    {
+      "sku_a": "SKU000696",
+      "sku_b": "SKU000706",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 158.1578947368421
+    },
+    {
+      "sku_a": "SKU000700",
+      "sku_b": "SKU000739",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 153.66477272727272
+    },
+    {
+      "sku_a": "SKU000417",
+      "sku_b": "SKU000443",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 151.51260504201682
+    },
+    {
+      "sku_a": "SKU000856",
+      "sku_b": "SKU000859",
+      "co_count": 11,
+      "support": 0.0020336476243298205,
+      "lift": 142.34210526315792
+    },
+    {
+      "sku_a": "SKU001189",
+      "sku_b": "SKU001198",
+      "co_count": 10,
+      "support": 0.0018487705675725643,
+      "lift": 142.3421052631579
+    },
+    {
+      "sku_a": "SKU000507",
+      "sku_b": "SKU000558",
+      "co_count": 11,
+      "support": 0.0020336476243298205,
+      "lift": 141.6642857142857
+    }
+  ],
+  "vol_share_of_bin_pct_fits_median": 94.25,
+  "median_bin_volume_cm3": 108000.0,
+  "charts": [
+    "eda_abc_pareto.png",
+    "eda_affinity.png",
+    "eda_volume_density.png"
+  ]
+}

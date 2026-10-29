@@ -1,0 +1,11 @@
+{
+  "abc_counts": {
+    "C": 463,
+    "B": 444,
+    "A": 293
+  },
+  "demand_rows": 1200,
+  "volume_profile_rows": 1200,
+  "affinity_pairs": 13062,
+  "affinity_clusters": 114
+}

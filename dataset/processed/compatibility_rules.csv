@@ -1,0 +1,56 @@
+rule_id,category_a,category_b,allowed,severity,rule_reason,source
+RULE001,CAT001,CAT001,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE002,CAT001,CAT002,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE003,CAT001,CAT003,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE004,CAT001,CAT004,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE005,CAT001,CAT005,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE006,CAT001,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE007,CAT001,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE008,CAT001,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE009,CAT001,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE010,CAT001,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE011,CAT002,CAT002,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE012,CAT002,CAT003,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE013,CAT002,CAT004,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE014,CAT002,CAT005,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE015,CAT002,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE016,CAT002,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE017,CAT002,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE018,CAT002,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE019,CAT002,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE020,CAT003,CAT003,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE021,CAT003,CAT004,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE022,CAT003,CAT005,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE023,CAT003,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE024,CAT003,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE025,CAT003,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE026,CAT003,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE027,CAT003,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE028,CAT004,CAT004,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE029,CAT004,CAT005,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE030,CAT004,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE031,CAT004,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE032,CAT004,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE033,CAT004,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE034,CAT004,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE035,CAT005,CAT005,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE036,CAT005,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE037,CAT005,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE038,CAT005,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE039,CAT005,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE040,CAT005,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE041,CAT006,CAT006,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE042,CAT006,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE043,CAT006,CAT008,false,hard,"Fragile items are excluded from heavy, high-impact storage zones.",synthetic_policy
+RULE044,CAT006,CAT009,false,hard,"Fragile items are excluded from heavy, high-impact storage zones.",synthetic_policy
+RULE045,CAT006,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE046,CAT007,CAT007,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE047,CAT007,CAT008,false,hard,"Fragile items are excluded from heavy, high-impact storage zones.",synthetic_policy
+RULE048,CAT007,CAT009,false,hard,"Fragile items are excluded from heavy, high-impact storage zones.",synthetic_policy
+RULE049,CAT007,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE050,CAT008,CAT008,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE051,CAT008,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE052,CAT008,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE053,CAT009,CAT009,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy
+RULE054,CAT009,CAT010,false,hard,Hazardous products must be separated from non-hazardous goods.,synthetic_policy
+RULE055,CAT010,CAT010,true,info,No category-level restriction; location handling and hazard rules still apply.,synthetic_policy

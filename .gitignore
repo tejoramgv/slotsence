@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Local tooling (not part of the deliverable)
+.commandcode/
+-p/
+
+# Third-party reference checkouts
+useful_repos/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml

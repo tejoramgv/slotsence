@@ -1,0 +1,25 @@
+[
+  {
+    "run_id": 1,
+    "completed_at_utc": "2026-10-28T17:23:19+00:00",
+    "algorithm": "greedy (velocity-ordered, inventory-conserving) + simulated annealing",
+    "objective_weights": {
+      "alpha": 1.0,
+      "beta": 0.4,
+      "gamma": 0.3,
+      "delta": 0.2
+    },
+    "seed": 42,
+    "feasibility": true,
+    "n_violations": 0,
+    "units_placed": 6375,
+    "inventory_units": 6375,
+    "final_objective": 270710.9309977876,
+    "objective_improvement_pct": 63.232,
+    "moves_evaluated": 600,
+    "moves_accepted": 20,
+    "runtime_sec": 18.987,
+    "stopping_reason": "max iterations reached (annealing)",
+    "globally_optimal": false
+  }
+]

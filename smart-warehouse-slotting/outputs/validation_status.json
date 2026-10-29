@@ -1,0 +1,9 @@
+{
+  "dataset": "C:\\Users\\venka\\Desktop\\COLLEGE\\ai_syndicate\\dataset\\processed",
+  "n_assignments": 1425,
+  "n_violations": 0,
+  "n_hard_violations": 0,
+  "checks_run": 2850,
+  "feasibility_pct": 100.0,
+  "feasible": true
+}

@@ -1,0 +1,98 @@
+table,table_purpose,primary_key,field,data_type,unit,description
+warehouses,Warehouse master,warehouse_id,warehouse_id,str,,unique warehouse identifier
+warehouses,Warehouse master,warehouse_id,warehouse_name,str,,display name
+warehouses,Warehouse master,warehouse_id,layout_version,str,,topology / layout version label
+warehouses,Warehouse master,warehouse_id,data_source,str,,measured | sourced | inferred | synthetic | derived
+warehouses,Warehouse master,warehouse_id,data_quality_status,str,,valid | warning | invalid
+categories,Product categories and storage notes,category_id,category_id,str,,unique category identifier
+categories,Product categories and storage notes,category_id,category_name,str,,display name
+categories,Product categories and storage notes,category_id,storage_requirements,str,,handling / storage notes
+categories,Product categories and storage notes,category_id,data_source,str,,provenance of the row
+products,Diverse SKU master with physical attributes,sku_id,sku_id,str,,unique SKU identifier
+products,Diverse SKU master with physical attributes,sku_id,product_name,str,,display name
+products,Diverse SKU master with physical attributes,sku_id,category_id,str,,FK to categories.category_id
+products,Diverse SKU master with physical attributes,sku_id,width_cm,float,cm,per-unit bounding-box width
+products,Diverse SKU master with physical attributes,sku_id,height_cm,float,cm,per-unit bounding-box height
+products,Diverse SKU master with physical attributes,sku_id,depth_cm,float,cm,per-unit bounding-box depth
+products,Diverse SKU master with physical attributes,sku_id,unit_volume_cm3,float,cm3,width x height x depth
+products,Diverse SKU master with physical attributes,sku_id,unit_weight_kg,float,kg,per-unit weight
+products,Diverse SKU master with physical attributes,sku_id,handling_type,str,,standard | fragile | heavy | temperature_controlled
+products,Diverse SKU master with physical attributes,sku_id,hazard_class,str,,NONE | UNKNOWN | flammable | corrosive | toxic | compressed_gas
+products,Diverse SKU master with physical attributes,sku_id,data_source,str,,measured | sourced | inferred | synthetic | derived
+products,Diverse SKU master with physical attributes,sku_id,data_quality_status,str,,valid | warning | invalid
+products,Diverse SKU master with physical attributes,sku_id,physical_data_source,str,,source of the dimensions and weight
+products,Diverse SKU master with physical attributes,sku_id,physical_confidence,str,,high | medium | low
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,location_id,str,,stable bin id (independent of the stored SKU)
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,warehouse_id,str,,FK to warehouses.warehouse_id
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,zone_id,str,,zone identifier
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,zone_type,str,,general | small_parts | bulk | heavy | hazard
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,aisle_id,str,,aisle identifier
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,rack_id,str,,rack identifier
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,bay,int,,0-based bay index within the rack
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,shelf_level,int,,0-based shelf level
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,x_m,float,m,x coordinate
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,y_m,float,m,y coordinate
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,z_m,float,m,shelf height
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,width_cm,float,cm,internal bin width
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,height_cm,float,cm,internal bin height
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,depth_cm,float,cm,internal bin depth
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,max_weight_kg,float,kg,permissible load for this bin
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,usable_volume_cm3,float,cm3,internal bin volume
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,shelf_max_weight_kg,float,kg,permissible load for the whole shelf
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,rack_max_weight_kg,float,kg,permissible load for the whole rack
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,ergonomic_zone,str,,golden | secondary | reserve
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,allowed_handling,str,,|-joined handling types allowed in this bin
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,allowed_hazard,str,,|-joined hazard classes allowed in this bin
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,distance_to_dispatch_m,float,m,shortest walk along the aisle graph to the depot
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,data_source,str,,provenance of the row
+locations,"Physical bins with geometry, capacity, and compatibility",location_id,data_quality_status,str,,valid | warning | invalid
+inventory,Current stock snapshot per bin,sku_id + location_id,sku_id,str,,FK to products.sku_id
+inventory,Current stock snapshot per bin,sku_id + location_id,location_id,str,,FK to locations.location_id
+inventory,Current stock snapshot per bin,sku_id + location_id,quantity_on_hand,int,units,current stock in this bin
+inventory,Current stock snapshot per bin,sku_id + location_id,data_source,str,,provenance of the row
+inventory,Current stock snapshot per bin,sku_id + location_id,data_quality_status,str,,valid | warning | invalid
+compatibility_rules,Category-pair storage compatibility,rule_id,rule_id,str,,unique rule identifier
+compatibility_rules,Category-pair storage compatibility,rule_id,category_a,str,,FK to categories.category_id
+compatibility_rules,Category-pair storage compatibility,rule_id,category_b,str,,FK to categories.category_id
+compatibility_rules,Category-pair storage compatibility,rule_id,allowed,bool,,true when the pair may share storage areas
+compatibility_rules,Category-pair storage compatibility,rule_id,severity,str,,hard | soft | info
+compatibility_rules,Category-pair storage compatibility,rule_id,rule_reason,str,,plain-language rationale
+compatibility_rules,Category-pair storage compatibility,rule_id,source,str,,provenance of the rule
+orders,Order headers for three alternative demand scenarios,order_id,order_id,str,,unique order identifier
+orders,Order headers for three alternative demand scenarios,order_id,scenario_id,str,,A | B | C (alternative demand histories)
+orders,Order headers for three alternative demand scenarios,order_id,order_timestamp,timestamp,UTC,ISO-8601 UTC order time
+orders,Order headers for three alternative demand scenarios,order_id,order_status,str,,completed
+orders,Order headers for three alternative demand scenarios,order_id,data_source,str,,provenance of the row
+orders,Order headers for three alternative demand scenarios,order_id,data_quality_status,str,,valid | warning | invalid
+order_items,Order line items,order_id + sku_id,order_id,str,,FK to orders.order_id
+order_items,Order line items,order_id + sku_id,sku_id,str,,FK to products.sku_id
+order_items,Order line items,order_id + sku_id,quantity,int,units,units ordered (> 0)
+order_items,Order line items,order_id + sku_id,data_source,str,,provenance of the row
+storage_assignments_baseline,Feasible current layout (never overwritten),sku_id + location_id,sku_id,str,,FK to products.sku_id
+storage_assignments_baseline,Feasible current layout (never overwritten),sku_id + location_id,location_id,str,,FK to locations.location_id
+storage_assignments_baseline,Feasible current layout (never overwritten),sku_id + location_id,assigned_quantity,int,units,units stored in this bin
+storage_assignments_baseline,Feasible current layout (never overwritten),sku_id + location_id,assignment_type,str,,baseline (optimized layouts are written by later phases)
+storage_assignments_baseline,Feasible current layout (never overwritten),sku_id + location_id,data_source,str,,provenance of the row
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,from_node_id,str,,start node id
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,from_node_type,str,,location | aisle_column | aisle_entrance | zone_hub | depot
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,to_node_id,str,,end node id
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,to_node_type,str,,location | aisle_column | aisle_entrance | zone_hub | depot
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,distance_m,float,m,walking distance along the aisle network
+location_graph,Directed aisle-network graph used for travel distance,from_node_id + to_node_id,data_source,str,,provenance of the row
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,scenario_id,str,,A | B | C
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,sku_id,str,,FK to products.sku_id
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,demand_frequency,int,orders,distinct orders containing the SKU
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,total_units,int,units,total units ordered in the scenario
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,rank,int,,demand rank (1 = highest)
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,cumulative_share,float,share,cumulative share of demand frequency
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,abc_class,str,,A | B | C
+demand_summary,Per-SKU demand and ABC classification by scenario,scenario_id + sku_id,data_source,str,,derived from the scenario order history
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,scenario_id,str,,A | B | C
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,sku_a,str,,FK to products.sku_id (lexicographically smaller)
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,sku_b,str,,FK to products.sku_id (lexicographically larger)
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,co_count,int,orders,orders containing both SKUs
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,support,float,share,co_count / number of orders
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,confidence_a_to_b,float,share,co_count / orders containing sku_a
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,confidence_b_to_a,float,share,co_count / orders containing sku_b
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,lift,float,ratio,support / (share_a * share_b)
+sku_affinity,Per-scenario SKU-pair co-occurrence statistics,scenario_id + sku_a + sku_b,data_source,str,,derived from the scenario order history

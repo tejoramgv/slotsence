@@ -1,0 +1,67 @@
+{
+  "seed": 42,
+  "n_skus": 1200,
+  "n_order_lines_per_scenario": 20000,
+  "order_window": {
+    "start_date": "2025-01-01",
+    "days": 180
+  },
+  "inventory": {
+    "cover_days": 30,
+    "safety_factor": 0.2,
+    "min_units": 3,
+    "max_bins_per_class": {
+      "small": 2,
+      "medium": 2,
+      "bulky": 2,
+      "heavy": 1,
+      "fragile": 1,
+      "hazard": 1
+    }
+  },
+  "warehouse": {
+    "warehouse_id": "WH001",
+    "warehouse_name": "Generalized Benchmark Warehouse",
+    "layout_version": "dataset-v1.0",
+    "dispatch_point_m": [0.0, -3.0],
+    "aisle_width_m": 2.0,
+    "rack_depth_m": 1.2,
+    "shelf_height_m": 0.5,
+    "zone_gap_m": 2.0,
+    "rack_limit_factor": 0.85,
+    "golden_levels": [1, 2],
+    "n_aisles_per_zone": 4,
+    "n_racks_per_aisle": 4,
+    "n_bays_per_rack": 2,
+    "n_shelves": 4,
+    "n_bins_per_shelf": 2,
+    "zone_layout": [
+      {"zone_type": "general", "count": 3, "bin_class": "standard"},
+      {"zone_type": "small_parts", "count": 1, "bin_class": "small"},
+      {"zone_type": "bulk", "count": 2, "bin_class": "bulk"},
+      {"zone_type": "heavy", "count": 2, "bin_class": "heavy"},
+      {"zone_type": "hazard", "count": 1, "bin_class": "hazard"}
+    ],
+    "bin_classes": {
+      "small": {"dims_cm": [45.0, 30.0, 40.0], "shelf_weight_kg": [40.0, 35.0, 30.0, 25.0]},
+      "standard": {"dims_cm": [60.0, 40.0, 45.0], "shelf_weight_kg": [80.0, 60.0, 50.0, 40.0]},
+      "bulk": {"dims_cm": [100.0, 70.0, 70.0], "shelf_weight_kg": [200.0, 160.0, 140.0, 120.0]},
+      "heavy": {"dims_cm": [60.0, 40.0, 45.0], "shelf_weight_kg": [120.0, 100.0, 80.0, 60.0]},
+      "hazard": {"dims_cm": [60.0, 40.0, 45.0], "shelf_weight_kg": [60.0, 50.0, 40.0, 30.0]}
+    },
+    "zone_rules": {
+      "general": {"allowed_handling": ["standard", "fragile"], "allowed_hazard": ["NONE"]},
+      "small_parts": {"allowed_handling": ["standard", "fragile"], "allowed_hazard": ["NONE"]},
+      "bulk": {"allowed_handling": ["standard", "fragile"], "allowed_hazard": ["NONE"]},
+      "heavy": {"allowed_handling": ["standard", "heavy"], "allowed_hazard": ["NONE"]},
+      "hazard": {"allowed_handling": ["standard"], "allowed_hazard": ["flammable", "corrosive", "toxic"]}
+    }
+  },
+  "demand": {
+    "scenarios": [
+      {"scenario_id": "A", "kind": "concentrated", "zipf_alpha": 1.15, "max_items_per_order": 6},
+      {"scenario_id": "B", "kind": "balanced", "max_items_per_order": 6},
+      {"scenario_id": "C", "kind": "affinity", "cluster_size": 10, "cluster_order_share": 0.75, "max_items_per_order": 6}
+    ]
+  }
+}

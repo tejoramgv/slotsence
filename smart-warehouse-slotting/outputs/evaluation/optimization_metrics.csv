@@ -1,0 +1,19 @@
+metric,note,direction,unit,change_kind,baseline,optimized,absolute_diff,percent_change
+total_travel_distance_m,Total travel distance over identical pick batches,lower is better,m,reduction,382544.2,279046.4,-103497.8,-27.06
+avg_travel_distance_m,Average distance per pick batch,lower is better,m,reduction,353.23,257.66,-95.57,-27.06
+avg_distance_per_order_m,Average travel distance per order,lower is better,m,reduction,70.65,51.53,-19.12,-27.06
+total_route_time_sec,Total pick-cycle time (travel + pick + setup),lower is better,s,reduction,465094.77,385481.08,-79613.69,-17.12
+avg_route_time_sec,Average pick-cycle time per batch,lower is better,s,reduction,429.45,355.94,-73.51,-17.12
+avg_time_per_order_sec,Pick-cycle time per order,lower is better,s,reduction,85.89,71.19,-14.7,-17.11
+throughput_orders_per_hr,Orders completed / total pick-cycle hours,higher is better,orders/h,improvement,41.91,50.57,8.66,20.66
+cube_utilization_pct,Occupied inventory volume / usable storage volume,reference,%,points,15.42,15.42,0.0,
+golden_zone_demand_share_pct,Demand-weighted units stored on golden shelf levels,higher is better,%,points,37.72,60.02,22.3,
+class_a_skus_outside_golden,Class A SKUs with no unit on a golden shelf level,lower is better,SKUs,abs,134,136,2.0,
+affinity_separation_m,Co-occurrence-weighted aisle distance between related SKUs,lower is better,m,reduction,24.373,20.044,-4.329,-17.76
+constraint_violations,Hard constraint violations,must be 0,violations,abs,0,0,0.0,
+valid_assignments,SKUs fully placed with no failed check,must equal required,SKUs,abs,1200,1200,0.0,
+required_assignments,SKUs with on-hand inventory requiring a location,reference,SKUs,abs,1200,1200,0.0,
+assignment_feasibility_pct,Valid assignments / required assignments,must be 100%,%,pct,100.0,100.0,0.0,
+checks_run,Rule checks evaluated by the validator,reference,checks,abs,15631,14916,-715.0,
+rule_check_pass_pct,Rule checks passed / rule checks run,must be 100%,%,pct,100.0,100.0,0.0,
+safety_compliant,No hard constraint violations,must be true,bool,bool,True,True,,

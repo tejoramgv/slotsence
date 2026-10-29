@@ -1,0 +1,2 @@
+warehouse_id,warehouse_name,layout_version,data_source,data_quality_status
+WH001,Generalized Benchmark Warehouse,dataset-v1.0,synthetic,valid

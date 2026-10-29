@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "hard_errors": 0,
+  "stats": {
+    "row_counts": {
+      "warehouses": 1,
+      "categories": 10,
+      "products": 1200,
+      "locations": 2304,
+      "inventory": 1425,
+      "compatibility_rules": 55,
+      "orders": 16244,
+      "order_items": 60000,
+      "storage_assignments_baseline": 1425,
+      "location_graph": 5274,
+      "demand_summary": 3600,
+      "sku_affinity": 10130
+    },
+    "capacity": {
+      "locations": 2304,
+      "used_locations": 1425,
+      "empty_locations": 879,
+      "total_usable_volume_cm3": 430592000.0,
+      "occupied_volume_cm3": 66411409.29,
+      "volume_utilization": 0.154233,
+      "total_bin_weight_capacity_kg": 189440.0,
+      "stored_weight_kg": 28071.88,
+      "weight_utilization": 0.148184
+    },
+    "demand": {
+      "A": {
+        "skus": 1200,
+        "class_counts": {
+          "A": 294,
+          "B": 444,
+          "C": 462
+        },
+        "class_share": {
+          "A": 0.151712,
+          "B": 0.328493,
+          "C": 0.378415
+        }
+      },
+      "B": {
+        "skus": 1200,
+        "class_counts": {
+          "A": 856,
+          "B": 235,
+          "C": 109
+        },
+        "class_share": {
+          "A": 0.313963,
+          "B": 0.17209,
+          "C": 0.088813
+        }
+      },
+      "C": {
+        "skus": 1200,
+        "class_counts": {
+          "A": 861,
+          "B": 236,
+          "C": 103
+        },
+        "class_share": {
+          "A": 0.315309,
+          "B": 0.172809,
+          "C": 0.083874
+        }
+      }
+    },
+    "scenario_counts": {
+      "A": {
+        "orders": 5415,
+        "lines": 20000
+      },
+      "B": {
+        "orders": 5420,
+        "lines": 20000
+      },
+      "C": {
+        "orders": 5409,
+        "lines": 20000
+      }
+    }
+  },
+  "errors": []
+}

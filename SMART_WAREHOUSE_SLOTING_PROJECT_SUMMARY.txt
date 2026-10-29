@@ -1,0 +1,160 @@
+SMART WAREHOUSE SLOTTING & OPTIMIZATION ENGINE - PROJECT SUMMARY
+================================================================================
+
+LOCATION OF FILE
+----------------
+C:\Users\venka\Desktop\COLLEGE\ai_syndicate\SMART_WAREHOUSE_SLOTING_PROJECT_SUMMARY.txt
+
+OVERVIEW
+--------
+A smart warehouse slotting and optimization engine that generates feasible storage
+assignments under physical, safety, and ergonomic constraints. The system compares
+a baseline layout against an optimized layout using demand-aware heuristics, route
+simulation, and quantitative metrics.
+
+ARCHITECTURE
+------------
+The project follows a modular pipeline architecture:
+
+1. Data Layer (dataset/processed, data/processed)
+   - Canonical dataset serves as single source of truth
+   - Contains locations, products/SKUs, inventory, orders, order_items, demand_summary,
+     sku_affinity, compatibility_rules, storage_assignments_baseline, location_graph, etc.
+
+2. Domain Model (smart-warehouse-slotting/src/models)
+   - entities.py: Location, SKU, Warehouse, Category, CompatibilityRule, Order, OrderItem,
+     StorageAssignment (with AssignmentType), Inventory
+   - config.py: Configuration schema for warehouse, dataset, optimization, demand
+   - topology.py: Deterministic warehouse layout generation
+   - io.py: CSV persistence utilities
+
+3. Validation Engine (smart-warehouse-slotting/src/validation)
+   - validator.py: Standalone constraint validator with structured violations
+   - loader.py: Schema-aware loaders for canonical dataset
+   - audit.py: Constraint audit export
+
+4. Analytics (smart-warehouse-slotting/src/analytics)
+   - demand.py, abc.py, affinity.py, volume_profile.py: Demand velocity, ABC classification,
+     affinity analysis, and volume profiling
+
+5. Optimization (smart-warehouse-slotting/src/optimization)
+   - objective.py: Weighted objective function (travel + affinity + ergonomics + utilization)
+   - optimizer.py: Greedy (velocity-ordered) starter + Simulated Annealing refinement
+   - pipeline.py: Canonical dataset integration with inventory conservation
+
+6. Routing & Simulation (smart-warehouse-slotting/src/routing, smart-warehouse-slotting/src/simulation)
+   - graph.py: Aisle graph (NetworkGraph) with Dijkstra shortest paths, depot detection
+   - heuristics.py: Nearest-neighbor and S-shape routing
+   - simulator.py: Order batching and pick-cycle-time simulation (deterministic)
+   - pipeline.py: Baseline vs optimized simulation and evaluation
+
+7. Evaluation (smart-warehouse-slotting/src/evaluation)
+   - metrics.py: Utilization, travel, feasibility, safety compliance, comparisons
+
+8. Interface (smart-warehouse-slotting/app)
+   - main.py: CLI with subcommands (validate, optimize, simulate, run-all)
+   - dashboard.py: Streamlit + Plotly interactive dashboard
+
+TECH STACK
+----------
+- Language: Python 3.14
+- Core Libraries: pandas, numpy
+- Visualization: matplotlib, seaborn, plotly
+- Dashboard: streamlit
+- Testing: pytest
+- Data Format: CSV, JSON
+
+DATASET
+-------
+Canonical Dataset (dataset/processed) - Single Source of Truth:
+- locations.csv: 2304 locations with coordinates, dimensions, zone_type, shelf_level,
+  ergonomic_zone, allowed_handling, allowed_hazard, shelf_max_weight_kg, rack_max_weight_kg
+- products.csv / skus: 1200 SKUs across 10 categories
+- inventory.csv: Multi-bin inventory with location_id and quantity_on_hand (1425 rows)
+- orders.csv, order_items.csv: Order data with scenario_id (3 scenarios: A, B, C)
+- demand_summary.csv: Demand frequency, total quantity, ABC class per SKU per scenario
+- sku_affinity.csv: Co-occurrence affinity with support/confidence/lift per scenario
+- compatibility_rules.csv: Category-to-category co-storage rules (55 rules)
+- storage_assignments_baseline.csv: Feasible baseline assignments (multi-bin)
+- location_graph.csv: Real aisle network graph with node types (locations, aisle_column,
+  zone_hub, depot) - 5274 edges
+- warehouses.csv: Warehouse configuration
+
+Project Local (smart-warehouse-slotting/data/processed): Reduced dataset used during
+initial development (1536 locations)
+
+CORE ENTITIES
+-------------
+- Location: Physical bin with dimensions, weight/volume capacity, zone_type, shelf_level,
+  ergonomic_zone, handling/hazard allowances, structural limits
+- SKU: Product with dimensions, weight, category, handling_type, hazard_class
+- StorageAssignment: Maps SKU to location(s) with assigned_quantity and assignment_type
+- Warehouse: Collection of locations forming the facility layout
+- CompatibilityRule: Defines allowed/disallowed co-storage between categories
+- Order/OrderItem: Demand transactions for simulation
+
+CONSTRAINTS ENFORCED
+--------------------
+Hard Constraints (High Severity):
+- SP-01: Dimensional fit
+- REF-01/02: Referential integrity
+- HZ-01: Hazard/zone compatibility (hazardous only in hazard zone)
+- HD-01: Handling/zone compatibility (heavy only in heavy zone; fragile excluded from heavy/hazard)
+- ER-01: Heavy shelf-height (levels 0-2 only)
+- QTY-01: Positive assigned quantity
+- AS-01: Single-SKU-per-bin (canonical allows multi-bin via inventory)
+- LD-01: Per-bin cumulative load
+- VD-01: Per-bin cumulative volume
+- SL-01: Per-shelf structural load (keyed by rack_id + shelf_level)
+- RK-01: Per-rack structural load
+- CP-01: Co-storage category conflicts
+- COMP-01: Assignment completeness
+- INV-01/02: Inventory conservation (over/under storage)
+- DU-01: Duplicate assignment to same bin
+
+OPTIMIZATION
+------------
+- Objective: Weighted combination α*travel + β*affinity + γ*ergonomics + δ*utilization
+- Algorithm: Velocity-ordered greedy starter + Simulated Annealing local search
+- Inventory Conservation: Places exact on-hand quantities; allows multi-bin where necessary
+- Demand-aware: Prioritizes high-velocity SKUs to golden/accessible zones
+- Affinity-aware: Proximity-based penalty for co-ordered SKUs
+- Validation: Every candidate re-validated against all hard constraints
+
+ROUTING & SIMULATION
+--------------------
+- Graph: Aisle network from location_graph.csv with Dijkstra shortest paths
+- Routing: Nearest-neighbor (deterministic, sorted for reproducibility)
+- Batching: Configurable batch size
+- Metrics: Travel time, pick time, setup time, throughput (orders/hr)
+- Fair Comparison: Identical orders, geometry, routing applied to both layouts
+
+OUTPUT MATRIX
+-------------
+Key Outputs (smart-warehouse-slotting/outputs/):
+- optimized/optimized_assignments.csv: Optimized multi-bin assignments
+- optimized/optimization_summary.json: Algorithm config, metrics, runtime, feasibility
+- baseline_assignments.csv: Baseline assignments
+- constraint_audit.csv: Violations from validator
+- evaluation/evaluation_summary.json: Baseline vs optimized comparison
+- evaluation/pick_routes.csv: Route details for both layouts
+- evaluation/optimization_metrics.csv: Side-by-side metric comparison
+- validation/phase*.json: Phase validation reports with confidence scores
+- validation_status.json: Latest validation summary
+
+EXECUTION
+---------
+From smart-warehouse-slotting/:
+- python app/main.py validate --processed ../dataset/processed
+- python app/main.py optimize --processed ../dataset/processed --config configs/benchmark.json
+- python app/main.py simulate --processed ../dataset/processed --scenario A
+- python app/main.py run-all --processed ../dataset/processed
+
+Dashboard: streamlit run app/dashboard.py
+
+TESTING
+-------
+- Tests: 58+ passing across phases 1-8
+- Coverage: Domain model, data pipeline, analytics, validation, optimization,
+  simulation, evaluation, integration, edge cases
+- Deterministic: Seeded RNG for reproducibility where applicable

@@ -1,0 +1,5 @@
+source_id,source_name,download_date,license,file_name,record_count,primary_key,notes,status
+synthetic_benchmark_v1,Synthetic benchmark generator v1,2026-10-27,Project-internal synthetic data,processed/*.csv,101668,see data_dictionary.csv,Generated with seed 42; physical attributes are synthetic.,generated
+warehouse_mendeley_v1,Footwear Warehouse Dataset (Mendeley Data),,Check DOI terms (https://doi.org/10.17632/pf2w725pw3.1),,0,,"Not acquired: real footwear operations, but package dimensions/weights are incomplete.",not_acquired
+amazon_ucsd_v1,Amazon product metadata (UCSD),,Check source terms (https://cseweb.ucsd.edu/~jmcauley/datasets.html),,0,,Not acquired: metadata lacks reliable physical dimensions and weights.,not_acquired
+hamburg_order_picking_v1,Artificial Generated Order Picking Data (University of Hamburg),,Check source terms (https://www.fdr.uni-hamburg.de/record/1645),,0,,Not acquired: supplementary synthetic picking patterns; not needed for the controlled benchmark.,not_acquired
